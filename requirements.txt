@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+
+# Web scraping
+google-play-scraper
+
+# Text processing & sentiment
+textblob
+nltk
+spacy
+pytextrank
+
+# Jupyter notebooks
+jupyter
+notebook
+
+# Visualization
+matplotlib
+seaborn
+
+# Environment variables
+python-dotenv
+
+# Progress bars
+tqdm
