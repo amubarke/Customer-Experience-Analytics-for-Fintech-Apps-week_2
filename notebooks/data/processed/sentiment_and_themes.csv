@@ -1,0 +1,869 @@
+review_id,review_text,sentiment_label,sentiment_score,identified_theme(s)
+0,very good app,positive,0.9099999999999999,Uncategorized
+1,excellent,positive,1.0,Uncategorized
+2,good,positive,0.7,Uncategorized
+3,CBE ይለያል።,neutral,0.0,Uncategorized
+4,it's special for me,positive,0.35714285714285715,Uncategorized
+5,Make it user friendly.,positive,0.375,Uncategorized
+6,maaliif daddafee install gaafata,neutral,0.0,Uncategorized
+7,good app,positive,0.7,Uncategorized
+8,This application is very important and advantage for transfer of money and finance in the coutry and foriegn country.,positive,0.52,Transaction Performance
+9,why didn't work this app?,neutral,0.0,Uncategorized
+10,The app makes our life easier. Thank you CBE!,neutral,0.0,Uncategorized
+11,this app very bad 👎,negative,-0.9099999999999998,Uncategorized
+12,the most advanced app. but how to stay safe?,positive,0.4666666666666666,Uncategorized
+13,Good application,positive,0.7,Uncategorized
+14,It is nice app,positive,0.6,Uncategorized
+15,best,positive,1.0,Uncategorized
+16,"it suddenly asked me to enter the verification key I received. and it (*get your verification key from the nearest CBE Branch*) Now I'm in Australia, what do you expect me to do???! There is no nearest or furthermost cbe Branch!! SO FRUSTRATING! How can I manage my bank account now????",neutral,-0.00234375,Uncategorized
+17,thanks blc this app help me to use all time,positive,0.2,Customer Support
+18,why we can't send money to other people telebirr wallets??,negative,-0.125,Uncategorized
+19,አታፍሩም ግን ለ15 birr 11.50 ብር ስትቆርጡ ይስተካከልልን,neutral,0.0,Uncategorized
+20,በጣም ቀላልና ምቹ ነው።,neutral,0.0,Uncategorized
+21,wow,positive,0.1,Uncategorized
+22,nice,positive,0.6,Uncategorized
+23,you are the reason why i got ye chogara himem,neutral,0.0,Uncategorized
+24,it is so smart app i recommend it for everyone,positive,0.21428571428571427,Uncategorized
+25,absolutely right,positive,0.2857142857142857,Uncategorized
+26,mid application it's so annoying,negative,-0.4,Uncategorized
+27,I used morethan one year,neutral,0.0,Uncategorized
+28,no word can explane about this app it is nice 👍👍👍👍👍,positive,0.6,Uncategorized
+29,"It's great app,I love this app",positive,0.65,Uncategorized
+30,suckkkks,neutral,0.0,Uncategorized
+31,not allowing to transfer and showing current statement updates.,neutral,0.0,Transaction Performance
+32,I love you this app,positive,0.5,Uncategorized
+33,"fast and convenient app, thanks for your dedication as a bank to provide good options to your cuatomers.",positive,0.3666666666666667,Feature Requests
+34,make life easy,positive,0.43333333333333335,Uncategorized
+35,securr,neutral,0.0,Uncategorized
+36,My most optional bank,positive,0.5,Uncategorized
+37,5 star,neutral,0.0,Uncategorized
+38,it is fantastic app.,positive,0.4,Uncategorized
+39,sifen,neutral,0.0,Uncategorized
+40,i like this√,neutral,0.0,Uncategorized
+41,Ok,positive,0.5,Uncategorized
+42,ጥሩ App ነዉ ። የኔ የግል አስተያየት- Update ወይንም cache cleaning app ሲደረግ ለምንድነዉ ደግመን login ስናደርግ Restricted ሚያደርገዉ ቢስተካከል እንደ ሀሳብ ጥሩ ነዉ። በዛላይ ድጋሚ አክቲቬት ለማስደረግ ከፍለን ..,neutral,0.0,Account Access Issues
+43,"Seriously, what’s going on with this app? The ""Pay to Beneficiary"" option is completely disabled for Android users, yet iOS users get full access without restrictions. Why are Android users being treated like second class customers? It’s the same app, the same service, but clearly not the same experience. This kind of platform bias is unacceptable, either give everyone the same features or be transparent about why you’re limiting functionality. Right now, it just feels unfair and frustrating.",neutral,-0.019047619047619056,"Account Access Issues, User Interface & Experience, Customer Support, Feature Requests"
+44,Like,neutral,0.0,Uncategorized
+45,Nice and very useful app i like it!,positive,0.54375,Uncategorized
+46,smart app,positive,0.21428571428571427,Uncategorized
+47,sync problem may 22 2025 but the date stack on may 8 2025 help pls,neutral,0.0,Customer Support
+48,cbe is my choice,neutral,0.0,Uncategorized
+49,Awesome,positive,1.0,Uncategorized
+50,I am not able to transfer. The app is not responding,negative,-0.25,Transaction Performance
+51,Very convenient App,positive,0.2,Uncategorized
+52,excellent but sometimes can not connect,positive,1.0,Uncategorized
+53,wow apk,positive,0.1,Uncategorized
+54,best 100 %,positive,1.0,Uncategorized
+55,bad app,negative,-0.6999999999999998,Uncategorized
+56,best app,positive,1.0,Uncategorized
+57,nice app,positive,0.6,Uncategorized
+58,the app constantly glitches and won't stop loading despite having a decent connection and a cleared cache. telebirr is way better,positive,0.2222222222222222,Uncategorized
+59,I can't access it properly I think it needs update,neutral,0.0,Account Access Issues
+60,not Refresh,neutral,0.0,Uncategorized
+61,your statement is not used as wanted,neutral,0.0,Uncategorized
+62,good very good,positive,0.8049999999999999,Uncategorized
+63,this is absolute trash why because it's not Woking most time the servers are down even though I'm using 4g data Internet they steal not working they use to work with out even data package now it's trash can't even send money,positive,0.18148148148148147,Uncategorized
+64,Bayeee galatooma kana caalati nu gammachisa 🌏🤌🏻💴💸🥰👌🏻🙏🏻,neutral,0.0,Uncategorized
+65,Good !,positive,0.875,Uncategorized
+66,i like it,neutral,0.0,Uncategorized
+67,Very nice app,positive,0.78,Uncategorized
+68,the app is not functional this week.,neutral,0.0,Uncategorized
+69,very updated bank,positive,0.2,Uncategorized
+70,tankyu,neutral,0.0,Uncategorized
+71,Numbers 2 and 3 don't write during pin verification.,neutral,0.0,Uncategorized
+72,"once it is uninstalled, you need to visit a nearby bank. you go there and they ask you to have a new sim card which hasn't been used before. so you should buy a new sim card and you go back to them with a new sim card, when you reach there service provider says authentication pin is not arrive, the system is not working come back tomorrow.",positive,0.08181818181818182,"Account Access Issues, Customer Support"
+73,loved it,positive,0.7,Uncategorized
+74,this app is not working on my phone,neutral,0.0,Uncategorized
+75,CBE needs to show transaction fees before the transaction is confirmed and not after. This is a big issue as fees are no longer insignificant.,positive,0.2,Transaction Performance
+76,"After the recent updates, I am unable to download a receipt. I can't see the names of account holders I've previously transacted with. Very important. Please fix it asap.",neutral,-0.03666666666666665,Uncategorized
+77,mobile banking broblem,neutral,0.0,Uncategorized
+78,good job,positive,0.7,Uncategorized
+79,it is a good and clear apps to use,positive,0.39999999999999997,Uncategorized
+80,ለምንድን ነው ከንግድ ባንክ ወደ ቴሌብር 5 ብር ሲተላለፍ 11 ብር እንዲቆርጥ ያደረጋችሁት,neutral,0.0,Uncategorized
+81,I love this app b/c every option in the app very clear and supportive.,positive,0.37666666666666665,Feature Requests
+82,niiceh,neutral,0.0,Uncategorized
+83,the app is good but their is no dark mode you have to add it,positive,0.38749999999999996,Feature Requests
+84,abdulakim abrahim elemoo,neutral,0.0,Uncategorized
+85,strong,positive,0.4333333333333333,Uncategorized
+86,Abebaw Zenebe,neutral,0.0,Uncategorized
+87,good I love it keep it up but if we had a new update that will be fire Soo good,positive,0.509090909090909,Uncategorized
+88,Active and granted system,negative,-0.13333333333333333,Uncategorized
+89,fast app,positive,0.2,Uncategorized
+90,cool 😎,positive,0.35,Uncategorized
+91,Galaxy A10s,neutral,0.0,Uncategorized
+92,the best apps,positive,1.0,Uncategorized
+93,arif app new,positive,0.13636363636363635,Uncategorized
+94,laga Bari biranch,neutral,0.0,Uncategorized
+95,I would like to suggest you improve the time out as it takes the money and doesn't return it back until the next day.,neutral,0.0,Uncategorized
+96,Attractive,positive,0.8,Uncategorized
+97,mite,neutral,0.0,Uncategorized
+98,useful,positive,0.3,Uncategorized
+99,"not good, not bad!",neutral,0.043749999999999956,Uncategorized
+100,very good,positive,0.9099999999999999,Uncategorized
+101,እጅግ በጣም አስቀያሚ ጠቁአም ዘረፋ በሚባል ደርጃ የ አገልግሎት የሚቀበል ያልሰራበትን የገዛ ገንዝበባችንን ተዘረፍን ከ 100ብር 10ብር የአገልግሎት ማስከፈል ምን ማለት ነው እባካችሁ እዩት እስትይ ከ ሞባይል ባንክ ወደ ampsa አስተላልፉና እዩት በጣም ይገርማል ሌባ ብያቸዋልሁ,neutral,0.0,Uncategorized
+102,imp,neutral,0.0,Uncategorized
+103,super fast app,positive,0.26666666666666666,Uncategorized
+104,"The app has a nice design and useful features like balance check and transfers, but it’s unstable and often fails to connect. It also forces users to turn off Developer Options, which is unnecessary — other banking apps work fine without that. Many people use Developer Mode for normal reasons. Please fix performance issues, remove this restriction, and add biometric login for better security and convenience",positive,0.16018518518518515,"Account Access Issues, Transaction Performance, Feature Requests"
+105,"it says ""ti is work any more in your device"" what can i do??",positive,0.5,Uncategorized
+106,blah blah blah,neutral,0.0,Uncategorized
+107,bad ግዴታ መሆንሁ,negative,-0.6999999999999998,Uncategorized
+108,CBE no.1,neutral,0.0,Uncategorized
+109,"it's not work correctly when it's needed sometimes, but it works sometimes though",neutral,0.0,Uncategorized
+110,its easy to use and more secured than the previous one. i love it and appreciate commercial bank of ethiopia for every time update.,positive,0.2533333333333333,Uncategorized
+111,gooof,neutral,0.0,Uncategorized
+112,"Suddenly the cbe application I was using stopped working and called callcenter, I was told it's because it expired and I should vist any branch to fix it. So I went to CBE Silassie branch.After filling a form they gave me, I sat down and waited until they finish fixing 2 customer's case who arrived before me. But then when it was my turn ppl who came after me with same mobile banking and even Atm card cases were finishing up and leaving I had to get back to my work so I left.with no service.why?",neutral,-0.038888888888888896,Uncategorized
+113,still not perfect like before,negative,-0.5,Uncategorized
+114,This app dash board is disturbing me. it is not showing me traxation and my balance while displaying others option on dashboard. I think it is a risk full app😭😭😭🤤🤤,negative,-0.07500000000000001,Feature Requests
+115,APPLIED,neutral,0.0,Uncategorized
+116,10 years ago,neutral,0.0,Uncategorized
+117,Asefa Obsa,neutral,0.0,Uncategorized
+118,it's good app,positive,0.7,Uncategorized
+119,very slow,negative,-0.39000000000000007,Transaction Performance
+120,berhan deriba wami,neutral,0.0,Uncategorized
+121,mahamad Usman,neutral,0.0,Uncategorized
+122,Erako,neutral,0.0,Uncategorized
+123,opne,neutral,0.0,Uncategorized
+124,mehommd nuri,neutral,0.0,Uncategorized
+125,providing very secure service.,positive,0.52,Customer Support
+126,apk አሪፍ ነው ግን በጣም apkwun የሚከፍቱ የ ባንክ ሰራተኞች በጣም ደካማ ናቸው ሲያስተናግዱ ለ ደንበኛ ክብር የላቸውም እኔ መመላለስ ከጀመርኩ ቆየው ግን መፍትህ ላገኝ አልችልኩም ::,neutral,0.0,Uncategorized
+127,RIYAD Mohammed Abaoli 92 527 2567,neutral,0.0,Uncategorized
+128,it doesn't show bank statement and no options to see transactions for the past months.,negative,-0.25,"Transaction Performance, Feature Requests"
+129,Mamma Husen,neutral,0.0,Uncategorized
+130,3 stars because I can't see all my transaction history apart from the recents and a refresh button has been removed from the Recents activity. The app should allow clients to view all of the transactions not just recents.,neutral,0.0,Transaction Performance
+131,exceptional application from others bank,positive,0.6666666666666666,Uncategorized
+132,"it is very nice. but i have a serious suggestion when you send to other cbe birr customer, it does not show the name of the recipient befor it actually send the money. please improve this",positive,0.08041666666666668,Uncategorized
+133,really good app,positive,0.7,Uncategorized
+134,smart bank CBE,positive,0.21428571428571427,Uncategorized
+135,Ali urgesa11,neutral,0.0,Uncategorized
+136,it's good,positive,0.7,Uncategorized
+137,Good apps,positive,0.7,Uncategorized
+138,password በጣት አሻራ ቢኖረው መልካም ነበር,neutral,0.0,Account Access Issues
+139,best app i ever seen,positive,1.0,Uncategorized
+140,it's game changing in financial system,negative,-0.2,Uncategorized
+141,"z,MKT 20_._!8+⅓⅕😘r",neutral,0.0,Uncategorized
+142,will good updating,positive,0.7,Uncategorized
+143,"service charge , vat, fee everything here is not yours they wanna take what you have, everything is not fair",negative,-0.35,Customer Support
+144,why removing screenshot feature why?,neutral,0.0,Feature Requests
+145,very good application! thank you all who participate!,positive,1.0,Uncategorized
+146,application bank commercial Ethiopia I am very happy to be able to appear in a great job on a pleasant job,positive,0.6066666666666667,Uncategorized
+147,user compatible app!,neutral,0.0,Uncategorized
+148,"I am trying to access this app on my Android phone, but sometimes doesn't work. so kindly try to improve it.",positive,0.6,Account Access Issues
+149,what an amazing app. you know how much it simplify life. Thanks cbe. I proud of you.,positive,0.45,Uncategorized
+150,Our Commercial Bank of Ethiopia is Good !,positive,0.4375,Uncategorized
+151,Asledin Ibsa,neutral,0.0,Uncategorized
+152,terrible when showing history of transaction it shows in disorganised way,negative,-1.0,Transaction Performance
+153,my bank,neutral,0.0,Uncategorized
+154,Data,neutral,0.0,Uncategorized
+155,"lately I am facing a problem with the app ,and the problem is when log in and inter my pin it doesn't work at all and says 'can't sync' why does it say that I was working fine a few day ago and also it says when I enter my pin 'change your pin to 6 digit pin and it doesn't allow me to change it please solve what is the problem with the app ?",neutral,-0.027777777777777773,Uncategorized
+156,excellent app with lots of features,positive,1.0,Feature Requests
+157,very good 👍 mobile banking,positive,0.9099999999999999,Uncategorized
+158,so special,positive,0.35714285714285715,Uncategorized
+159,wiiy ewdihiliw esimirt niho yitnehew metgeyot ❤💞🤔😴🤩😍,neutral,0.0,Uncategorized
+160,woow cbe,neutral,0.0,Uncategorized
+161,cbe the best bank app,positive,1.0,Uncategorized
+162,This App CBE bank it's Simple and Smart I Like it.,positive,0.10714285714285714,Uncategorized
+163,Rijalufaris,neutral,0.0,Uncategorized
+164,its Best app But i hate the Repeatedly update request,positive,0.09999999999999998,Feature Requests
+165,imoo,neutral,0.0,Uncategorized
+166,"it was good since it become a robber the vat ,tax,service charge,unbelievable charge to send to other bank, monthly charge,etc i hope one international bank comes and we all leave this bank. enough is enough",positive,0.11499999999999999,Customer Support
+167,screen shoot always not allowed why?,neutral,0.0,Uncategorized
+168,enkorabetalen,neutral,0.0,Uncategorized
+169,Gamada mahamadi,neutral,0.0,Uncategorized
+170,it is very good banking web but its network is sometimes busy i hope they willfix the problem,positive,0.505,Uncategorized
+171,verfcasencod,neutral,0.0,Uncategorized
+172,you can't get your own transaction history,positive,0.6,Transaction Performance
+173,sintu,neutral,0.0,Uncategorized
+174,Bank of Ethiopia,neutral,0.0,Uncategorized
+175,"All most Good, but need improvement",positive,0.6,Uncategorized
+176,"Great application for me,So I would like to rate with Solid 5 star.That It works well overall. So hello everyone enjoy the apps",positive,0.30000000000000004,Uncategorized
+177,poor app all of you guys delete CBE and download BOA,negative,-0.4,Uncategorized
+178,niceapp,neutral,0.0,Uncategorized
+179,the best app of all,positive,1.0,Uncategorized
+180,"Most of the time when I try to open the app, it does not load. The circle keeps spinning as if it is trying to open, and get a message saying "" 2 attempts left for offline login"". This seems to mean that the app cannot connect to the internet, even though I have a stable internet connection, and all other stuff work properly.",neutral,0.008928571428571428,Account Access Issues
+181,Juhaar,neutral,0.0,Uncategorized
+182,I am using CBE app very fantastic.,positive,0.52,Uncategorized
+183,bist app tankyou,neutral,0.0,Uncategorized
+184,this is very useful and consistent app,positive,0.32,Uncategorized
+185,"this application provides timely service in a good, fast and reliable manner.",positive,0.44999999999999996,Customer Support
+186,So good,positive,0.7,Uncategorized
+187,it will be more better if the app have the feature receipt verifying from QR CODE SCREENSHOT IMAGES FROM gallery ... currently IT WORKS ONLY FROM DIRECT CAMERA CAPTURING,positive,0.22000000000000003,Feature Requests
+188,"From the UX perspective it can be better, it's old and it's not obvious where you can find some things",positive,0.19999999999999998,Uncategorized
+189,It is amazing app but it is more better if it is possible to transfer from account to other telebirr,positive,0.29500000000000004,Transaction Performance
+190,"The app was great while it was active. However, after the app did an update, I lost connection with a message ""Network Error"". Please try to fix it as there are many clients of CBE using this app globally from abroad countries.",positive,0.2916666666666667,Uncategorized
+191,very important app,positive,0.52,Uncategorized
+192,the best of all mobile banking in Ethiopia works perfectly fine,positive,0.7083333333333334,Uncategorized
+193,DANTRO BAND!!!,neutral,0.0,Uncategorized
+194,some time when make transfer from Mobile account to other cbebirr wallet no show customer name so please check it......thanks my cbe.. cbebirr application very nice application wallet,positive,0.3275,Transaction Performance
+195,this app is very useful but sometimes when you want to see specific transactions it didn't work so that way i gave 3,positive,0.195,Transaction Performance
+196,why i must visit the branch i opened my account to activate the mobile banking services? if it a connected network it maybe done from any branch.,neutral,0.0,Customer Support
+197,asfaw damse,neutral,0.0,Uncategorized
+198,jabadhaa namatii tolataan,neutral,0.0,Uncategorized
+199,"The App is very good in its interface and user friendly. But it could be a pro app had it had additional feature that let us run multiple accounts on a single phone with an option of ""additional"" account!",positive,0.29892857142857143,"User Interface & Experience, Feature Requests"
+200,The app is user friendly. But i want some amendment or include option of sending money to other tele birr like other cbe birr.,neutral,0.041666666666666664,Feature Requests
+201,Truly amazing!,positive,0.7500000000000001,Uncategorized
+202,Doesn't have option to generate statement for transactions,neutral,0.0,"Transaction Performance, Feature Requests"
+203,JanaleBl,neutral,0.0,Uncategorized
+204,nice application,positive,0.6,Uncategorized
+205,WaaaaaaaW,neutral,0.0,Uncategorized
+206,very nice,positive,0.78,Uncategorized
+207,Of,neutral,0.0,Uncategorized
+208,it's best app to use recently and upgraded day to day for internationalization,positive,0.5,Uncategorized
+209,Easy to use and not Complicated 👍,positive,0.3416666666666667,Uncategorized
+210,apdat the app,neutral,0.0,Uncategorized
+211,good in bankin at any time & any where.,positive,0.7,Uncategorized
+212,great,positive,0.8,Uncategorized
+213,"WHAT A USELESS APP! Transfers, wallet payments, other banks — nothing works. Updated, restarted, cleared cache, reinstalled — still useless. Crashed and forced me to visit a branch just to log in 3 times. One of the biggest banks in the country can’t fix issues a junior developer could solve. Completely unreliable. Big bank , Zero functionality!",negative,-0.24166666666666667,Transaction Performance
+214,it is best to me,positive,1.0,Uncategorized
+215,hayizgi mebrahtom feshay,neutral,0.0,Uncategorized
+216,Excellent app,positive,1.0,Uncategorized
+217,after apdate the app doesn't work any thing else it said enable to connects,neutral,0.0,Uncategorized
+218,love,positive,0.5,Uncategorized
+219,Hasasa bank,neutral,0.0,Uncategorized
+220,All ways Trusted.,neutral,0.0,Uncategorized
+221,best MB application in Ethiopia financial sector.,positive,0.5,Uncategorized
+222,I like this app,neutral,0.0,Uncategorized
+223,am tired why I have to update every 5 day,negative,-0.4,Uncategorized
+224,usb debugig mode bicha off endidereg axrigu like awash bank,neutral,0.0,Uncategorized
+225,good morning 🙏,positive,0.7,Uncategorized
+226,am happy 😃,positive,0.8,Uncategorized
+227,wowww,neutral,0.0,Uncategorized
+228,KEHRU nasir AbFIXA,neutral,0.0,Uncategorized
+229,It is well organized.,neutral,0.0,Uncategorized
+230,Can't see the nearest Branch or ATM available,positive,0.4,Uncategorized
+231,the app does not open,neutral,0.0,Uncategorized
+232,from Monk,neutral,0.0,Uncategorized
+233,"Amazing, Delightful and Seamless Mobile Banking Application, I have ever Experienced!! Indeed, I feel Great Proud to be part of your Stakeholder! My First Choice Bank, Commercial Bank of Ethiopia, The Pioneer and Leading in Digital Banking Services in Ethiopia! Five stars ⭐⭐⭐⭐⭐ are little to you! Thank you so much🙏",positive,0.4515625,User Interface & Experience
+234,incredible,positive,0.9,Uncategorized
+235,it's the best money transfer app ever,positive,1.0,Transaction Performance
+236,it is nice,positive,0.6,Uncategorized
+237,user friendly. best.,positive,0.6875,Uncategorized
+238,best app!!!,positive,1.0,Uncategorized
+239,"It is good app and really user friendly , but it not possible to start service after the app is uninstalled or device phone is changed. So please make it easy for us, after once you set us the requirements in your office we should have to use it only by install and launch it. We do not have to visit the near by branch office every time for such silly businesses but important things. in addition to that why is that for hidding senders name or account number How can I know who tranfers to me???",positive,0.17083333333333334,Customer Support
+240,jabirabdala,neutral,0.0,Uncategorized
+241,unfair cost of transportations... what a shame!!!,negative,-0.9765625,Uncategorized
+242,"I think it is a good app to use easily. However, I have one more comment: the app does not automatically sync or update the balance in real time. Please review this issue. For example, when someone transfers money, the receiver's app does not sync automatically. It requires the user to manually initiate an update to see the current balance.",positive,0.36666666666666664,Transaction Performance
+243,WAW!!! I AM PROUD!!! MY STRONG BANK WORKS AT BEST EVEN IN A REMOTE LOCATION HERE IN MALABO (ECUATORIAL GUINEA). MEWOLID MUBARAK CBE!!!,positive,0.5595052083333334,Uncategorized
+244,zinaa Ahmed,neutral,0.0,Uncategorized
+245,absolutely excellent,positive,1.0,Uncategorized
+246,amazing app,positive,0.6000000000000001,Uncategorized
+247,perfect and easy,positive,0.7166666666666667,Uncategorized
+248,fastest,neutral,0.0,Uncategorized
+249,My account is not working,neutral,0.0,Uncategorized
+250,The recent update is not optimized fir latest version of android,positive,0.25,Uncategorized
+251,topp,neutral,0.0,Uncategorized
+252,I appreciate it,neutral,0.0,Uncategorized
+253,v.good app,neutral,0.0,Uncategorized
+254,sahib amin jamal,neutral,0.0,Uncategorized
+255,installi,neutral,0.0,Uncategorized
+256,very good apps,positive,0.9099999999999999,Uncategorized
+257,the app say it is not compatible with ur phone can u fix it it is not updating.,neutral,0.0,Uncategorized
+258,"I would like to give you some feedback on Current update, its very nice and easy to use👍 but in some button there is still not improved For example while iwant to check my recent Txn it not well sequenced and arranged or some txn may not appear ... becouse of this i see many of users of this app discomferted maily merchants and those make High txn daily. improve and miximize the txn shown to 300 up to 500. make Searchable Recent txn button! All in all the bank i Relly on! CBE my bank !",positive,0.23416666666666666,Uncategorized
+259,tinishu titiba,neutral,0.0,Uncategorized
+260,"essy to use ,has great interface and user-friendly g",positive,0.8,User Interface & Experience
+261,Yuuuuu,neutral,0.0,Uncategorized
+262,I found it very much friendly,positive,0.375,Uncategorized
+263,"Very useful app, while we use CBE.",positive,0.39,Uncategorized
+264,woooow,neutral,0.0,Uncategorized
+265,Redmi,neutral,0.0,Uncategorized
+266,kamil aweil,neutral,0.0,Uncategorized
+267,In your next update can you come with night mode future,neutral,0.0,Uncategorized
+268,"Truly, super competitive when compared to a well known app nowadays functioning broadly by simplest features and means namely known as Telebirr super app, Thus, CBE is my top ultimate choice that I prefer over the other bank due to its beautiful power of lead as a result I could recommend CBE to others because of its service provision via ethical principles and practice for customers satisfaction with existence of constraints and challenges face from burglary and froudalent hacker. Thank you !",positive,0.2310185185185185,"Customer Support, Feature Requests"
+269,mayreba app you its better if you use other banks,positive,0.1875,Uncategorized
+270,Not Prefect Transfer To Other Bank The Mony Not Deliverd Imidetliy Take Three Or Five Days,negative,-0.125,Transaction Performance
+271,let us know before you shut down the app,negative,-0.15555555555555559,Uncategorized
+272,excited,positive,0.375,Uncategorized
+273,amizing,neutral,0.0,Uncategorized
+274,love it,positive,0.5,Uncategorized
+275,yes it is v good,positive,0.7,Uncategorized
+276,A great update in the Mobile Banking Application. Thanks for the System and customization department,positive,0.5,Uncategorized
+277,this app is smart.,positive,0.21428571428571427,Uncategorized
+278,I am happy,positive,0.8,Uncategorized
+279,Still I have not face critical problems sometimes delay to open,neutral,0.0,Uncategorized
+280,The connection between bank and the app is lag relationship this must be corrected.,neutral,0.0,Uncategorized
+281,I have forgotten mobail banking password,neutral,0.0,Account Access Issues
+282,Thank you,neutral,0.0,Uncategorized
+283,muktaar Abraahim,neutral,0.0,Uncategorized
+284,🤞Good One,neutral,0.0,Uncategorized
+285,why does it say change pin to 6 digits is that right?,positive,0.2857142857142857,Uncategorized
+286,One of the worst mobile banking apps in Ethiopia. You can't access your txn record for more than 2 weeks.,negative,-0.25,Account Access Issues
+287,i like it and aprshat.,neutral,0.0,Uncategorized
+288,"The app has some issues I updated recently and now I am not able to send funds to my telebirr wallet, also we need to have a place we save our contacts where we usually send money to, after update I keep loosing all the important accounts.",neutral,-0.024999999999999994,Uncategorized
+289,best app and easy to use,positive,0.7166666666666667,Uncategorized
+290,doesn't work unless with data doesn't refresh fast other wise functions ok but after the update transferring to telebirr is not working,positive,0.31875,Transaction Performance
+291,List of transactions can't load over months and years..,neutral,0.0,Transaction Performance
+292,transferring money to telebirr is not working,neutral,0.0,Transaction Performance
+293,I don't Like this app and there service fee is highl,neutral,0.0,Customer Support
+294,አዲሱ Update ጥሩ አይደለም. Update ካደረግኩት በኋላ ከዚህ በፊት ስላላክባቸው የነበሩትን Save አድርጎ ይዞት የነበረውን ሁሉንም የሰዎች አካውንቶች አጥፍቶብኛል.,neutral,0.0,Uncategorized
+295,this application do not show over all transaction history,neutral,0.0,Transaction Performance
+296,Make the reason we wrote visible on app transaction.,neutral,0.0,Transaction Performance
+297,app is note active working crash,negative,-0.13333333333333333,Uncategorized
+298,goof,neutral,0.0,Uncategorized
+299,good!,positive,0.875,Uncategorized
+300,good jop,positive,0.7,Uncategorized
+301,bad exprience...it is so crushed,negative,-0.3999999999999999,Uncategorized
+302,not user friendly at all it requires a huge connectivity and also lags many times 😑😑😑,positive,0.42500000000000004,Uncategorized
+303,most of the time is not working properly,positive,0.25,Uncategorized
+304,good service,positive,0.7,Customer Support
+305,not use for me,neutral,0.0,Uncategorized
+306,It keeps notifying me to disable developer options and quiet while I'm not enabled. always bring another type of problem with new updates.,positive,0.06818181818181818,Feature Requests
+307,waw,neutral,0.0,Uncategorized
+308,the lag is unbelievable when you need it the most this suks,positive,0.125,Uncategorized
+309,I cant belive I could find the worst bank app ever .yet very simple to fix the problem and the company just ignored it. no body can do business with this kind of app.,negative,-0.13333333333333333,Uncategorized
+310,it is a good app,positive,0.7,Uncategorized
+311,it is not working at all,neutral,0.0,Uncategorized
+312,🥰🥰🥰🥰🥰 app is good but i was live in abroad and when i enter my otp code it didnt make me to write my code it the app want it self write thats not fair so please other wise i like it why,positive,0.21227272727272725,Account Access Issues
+313,when trying to activate the app it keeps on loading on the security questions page. It has been two days,neutral,0.0,Uncategorized
+314,fast and simple,positive,0.1,Uncategorized
+315,best of best,positive,1.0,Uncategorized
+316,Worest Banking App Ever I seen. Fake App Bad Better to Leave,negative,-0.23333333333333325,Uncategorized
+317,"I would like to share feedback regarding the application. It frequently experiences disruptions and does not function properly, often freezing or failing to load. This issue is affecting workflow and efficiency. Kindly review and address this problem to ensure smoother performance.",positive,0.2333333333333333,User Interface & Experience
+318,Meet you genuine.App I tried is not functional.Helping.welldoingwith BOA Ethiopia .fastandrelevant.morconnecting Digitalyworld.Digitalyworld. thanks.,positive,0.2,Uncategorized
+319,"Barely works, it always fails to connect",negative,-0.225,Uncategorized
+320,my fav app,neutral,0.0,Uncategorized
+321,this app launch time is so long also has dozen bugs in addition it's has been long time get update,neutral,-0.05,Uncategorized
+322,"Your application is very irritating to use, some functionality doesn't even work like on the card management. You need to do better than this and it good idea to reference other banking applications.",positive,0.13874999999999998,Uncategorized
+323,I like,neutral,0.0,Uncategorized
+324,i m sorry but it doesn't work for my android it is too slow but other bank are very fast please update,negative,-0.16625,Transaction Performance
+325,"the worst app ever,",negative,-1.0,Uncategorized
+326,better,positive,0.5,Uncategorized
+327,"I kindly request that Bank of abyssinia address issues with its mobile app. It is very slow, has numerous problems, and frequently experiences downtime. The user experience is also poor. Thank you.",neutral,-0.018000000000000016,"Transaction Performance, User Interface & Experience, Feature Requests"
+328,this app can't open? what is problem? please solve my problem?,neutral,0.0,Uncategorized
+329,kiyaa makonn,neutral,0.0,Uncategorized
+330,very very lazy app,negative,-0.325,Uncategorized
+331,telebirr remittance,neutral,0.0,Uncategorized
+332,The best bank in 🇪🇹,positive,1.0,Uncategorized
+333,the worst app in my financial experience.,negative,-0.5,User Interface & Experience
+334,good for mb appliciation,positive,0.7,Uncategorized
+335,the worst bank ever. slow don't accept dual sim. they are very stupid and greedy,negative,-0.7666666666666666,Transaction Performance
+336,try to easy network,positive,0.43333333333333335,Uncategorized
+337,hussen hassen umer,neutral,0.0,Uncategorized
+338,"The app is not suitable and lacks a good UI design. As a large bank, you must update your app with a professional UI that is fast and appropriate.",positive,0.2398809523809524,User Interface & Experience
+339,an exceptional banking app.,positive,0.6666666666666666,Uncategorized
+340,alhamdulilah,neutral,0.0,Uncategorized
+341,poor,negative,-0.4,Uncategorized
+342,from the last week updates the app is not working Please check the problems,neutral,0.0,Uncategorized
+343,It's always crushing,positive,0.4,Uncategorized
+344,office branches have to improve their services please,neutral,0.0,Customer Support
+345,Why does it keep crashing? I can't even use this. BOA should do better. You have many customers and how to deal with this. I can't send money now.,positive,0.5,Uncategorized
+346,it needs a timely update,neutral,0.0,Uncategorized
+347,"It does not show the name of the person who sent the money to request a receipt. This has become very difficult for us. When different people transfer the same amount to me from different banks, it is very difficult to identify the account or the name of the sender.",negative,-0.26,"Transaction Performance, Feature Requests"
+348,I can't type my otp on it.,neutral,0.0,Account Access Issues
+349,"most of bank apps in Ethiopia are linked with ethiopian phone number, I live in US permanently so when I open BoA account, I told them where I live and to link it with email address instead of phone # as ethio phone number is not working where I live, unfortunetly my fear appeared and now when I change my phone device, it send the code to the ethio number which is not with me now. so please when u develop bank apps consider the diaspora community to use ur apps",positive,0.18181818181818182,Uncategorized
+350,jaajja,neutral,0.0,Uncategorized
+351,I love this bank the best experience ever.,positive,0.75,User Interface & Experience
+352,"Nothing has been improved, it doesn't work like the previous version.",negative,-0.16666666666666666,Uncategorized
+353,easy and fast,positive,0.31666666666666665,Uncategorized
+354,mobile banking,neutral,0.0,Uncategorized
+355,"need alot of connection, chooses device, very lug even when there is connection",positive,0.2,Uncategorized
+356,On my ios it's perfect but on android it barley works and don't transfer and after a while it crushed and totally stopped working. Please fix the issue my beloved bank of abyssinia.,positive,0.4,Transaction Performance
+357,since the last update i can open the app crashes a lot and omg its being very slow opening and loading,negative,-0.13000000000000003,Transaction Performance
+358,none,neutral,0.0,Uncategorized
+359,very good app i ever used,positive,0.9099999999999999,Uncategorized
+360,its nice app especially the transaction limit is extended but We face that BoA m.banking app doesn't respond at the activation stage strictly at SMSNG mobile phone. please try this to make safe.,positive,0.3666666666666667,Transaction Performance
+361,zedo,neutral,0.0,Uncategorized
+362,please open my mobile app,neutral,0.0,Uncategorized
+363,it doesn't open,neutral,0.0,Uncategorized
+364,masha alla,neutral,0.0,Uncategorized
+365,Best banking transaction application in Ethiopia !,positive,1.0,Transaction Performance
+366,tamaam kamal,neutral,0.0,Uncategorized
+367,absiniya banki,neutral,0.0,Uncategorized
+368,has issue after installation and i think it doesn't work with tecno common 30,negative,-0.3,Uncategorized
+369,One of the best in this business,positive,1.0,Uncategorized
+370,besat🥰,neutral,0.0,Uncategorized
+371,unlimited experience,neutral,0.0,User Interface & Experience
+372,"as bank, u should at least hire someone good at their job bc this a joke nowadays I can't even log in or even transfer without it crashing if u fix the app I will update this review I am counting on u boa update: so they atleast fixed it but as suggestion can u put password when in final step of sending money it will feel more secure that way",positive,0.2333333333333333,"Account Access Issues, Transaction Performance"
+373,very nice mobile banking app my favourite,positive,0.78,Uncategorized
+374,"it almost never boots up!!! and even if it did, it crashes immediately",neutral,0.0,Uncategorized
+375,best apps,positive,1.0,Uncategorized
+376,the worst app ever to exist in a bank history,negative,-1.0,Uncategorized
+377,Best mobile app in the country,positive,1.0,Uncategorized
+378,not fast,negative,-0.1,Uncategorized
+379,keeps freezing at the front page.,neutral,0.0,Uncategorized
+380,it is not working on redminote 11 pro+ pls fix it,neutral,0.0,Uncategorized
+381,abseniya bank app,neutral,0.0,Uncategorized
+382,yes goode app,neutral,0.0,Uncategorized
+383,Great App,positive,0.8,Uncategorized
+384,1) Crashes repeatedly 2) Takes Century to Boot 3) Repeatedly requires Update which is very annoying. 4) It doesn't ask for Password for one step confirmation when transferring money. 5) Automatically stops music when the app is launched (it doesn't really matter just fyi) Overall this have to be the worst mobile banking app I have tried so far and should not be released with all these bugs & issues.,negative,-0.33999999999999997,"Account Access Issues, Transaction Performance"
+385,The Worst Mobile Banking App.,negative,-1.0,Uncategorized
+386,giod,neutral,0.0,Uncategorized
+387,best bank in ethiopia,positive,1.0,Uncategorized
+388,waqayyoo,neutral,0.0,Uncategorized
+389,please is not working,neutral,0.0,Uncategorized
+390,nothing when I need to install the Apk it say that re-up date,neutral,0.0,Uncategorized
+391,I can log in from any where,neutral,0.0,Uncategorized
+392,no proplem,neutral,0.0,Uncategorized
+393,good work,positive,0.7,Uncategorized
+394,Great BoA,positive,0.8,Uncategorized
+395,Okay,positive,0.5,Uncategorized
+396,not working,neutral,0.0,Uncategorized
+397,This App is Getting worse and worse with every update,negative,-0.4,Uncategorized
+398,meku,neutral,0.0,Uncategorized
+399,awasome app go a head,neutral,0.0,Uncategorized
+400,it sucks as hell. it crashes most of the time and takes a long time to load .,positive,0.05000000000000001,Uncategorized
+401,"The App is nice and easy to use but after some time it crushed and said ""Error check your device connectivity"" please fix it",positive,0.31111111111111106,Uncategorized
+402,Easy and very nice app to load more than the previouse but in recent time some loading problem detected.,positive,0.42833333333333334,Uncategorized
+403,"The worst MBA I have experienced, The app crush frequently and they take to long to fix the problem even more than a week.",positive,0.07,User Interface & Experience
+404,amazing Banks App👌👌,positive,0.6000000000000001,Uncategorized
+405,good App fore me,positive,0.7,Uncategorized
+406,"very uninterested it's not working when the ""developer mode on"" i haven't off the developer options i preferred to uninstall your app .....",positive,0.2,Feature Requests
+407,fantastic,positive,0.4,Uncategorized
+408,it's nice to use.,positive,0.6,Uncategorized
+409,app doesn't start,neutral,0.0,Uncategorized
+410,Excellent application,positive,1.0,Uncategorized
+411,its very bad app its very slow,negative,-0.6499999999999999,Transaction Performance
+412,Good job!,positive,0.875,Uncategorized
+413,best financial app.,positive,0.5,Uncategorized
+414,the worst app humans ever created,negative,-1.0,Uncategorized
+415,it's not working,neutral,0.0,Uncategorized
+416,"Hello, I’m facing a problem with the BOA Mobile app. Every time I enter my phone number and password, the app crashes and shows an error that says “BoaMobile closed because this app has a bug.” I tried updating, reinstalling, and clearing cache, but nothing worked. Please fix this bug in the next update. I really need access to my account. Thank you.",neutral,0.03333333333333333,Account Access Issues
+417,exceptional,positive,0.6666666666666666,Uncategorized
+418,BoA Mobile good bank,positive,0.7,Uncategorized
+419,this is worest app 24/7 loading,neutral,0.0,Uncategorized
+420,BoA system is confartable,neutral,0.0,Uncategorized
+421,"this app, for me , is a waste of time. It doesn't work . I can't even long in, and it really piss me off. FIX THE PROBLEM",neutral,-0.016666666666666663,Uncategorized
+422,Good service.,positive,0.7,Customer Support
+423,the app crush frequently,positive,0.1,Uncategorized
+424,You guys keeps getting worst,negative,-1.0,Uncategorized
+425,"This app is a joke. It crashes more than it works, takes forever to load, and half the features are just decorative at this point. Can’t log in, can’t transfer money, can’t even check my balance without it bugging out. To the developer: Are you actually trying to make this work, or is this some kind of social experiment to test our patience? Did you build this in your sleep? Because it definitely looks like it. If this is your idea of a functional app, maybe consider a different career path🙏",positive,0.1380952380952381,"Transaction Performance, Feature Requests"
+426,BoA,neutral,0.0,Uncategorized
+427,but not opening on android,neutral,0.0,Uncategorized
+428,Worst App ever. Totally unreliable. And it didn't work at all for the last 4 months.,negative,-0.3333333333333333,Uncategorized
+429,amazing,positive,0.6000000000000001,Uncategorized
+430,"this app does no work on Samsung a51, it just gives a preview of the logo",neutral,0.0,Uncategorized
+431,"i entered incorrect security question by mistake boa app lock pin forever, why is there no other options? ?? i contacted different branchs more then 4times but they didn't able to solve this issue .",positive,0.265625,Feature Requests
+432,liking this application good 👍,positive,0.7,Uncategorized
+433,"This app future is good, but there is problems with apps to reset and activate it, which is difficult even to the branch staffs, and it takes too long times to active at the branch plus most of the time high expected failure of activation after process at the counter and OTP sent not work",neutral,0.028888888888888884,Account Access Issues
+434,it's really good 👍,positive,0.7,Uncategorized
+435,Bad app . it stuck when you open and noting WORKS.,negative,-0.3499999999999999,Uncategorized
+436,"the app isn't working after it asked me the password it starts loading, but it doesn't open",neutral,0.0,Account Access Issues
+437,It keeps showing this pop up to turn off developer options even tho it's off! I had to turn on and then off to make it work! This is a horrible experience and needs a fix asap! Plus kinda slow.,negative,-0.65,"Transaction Performance, User Interface & Experience, Feature Requests"
+438,yideg,neutral,0.0,Uncategorized
+439,boa of mobile backing,neutral,0.0,Uncategorized
+440,faster bank of Abissinya,neutral,0.0,Uncategorized
+441,i would have given it a lower if it was possible because it crush so much and it take the bank so long to fix the bug,positive,0.05000000000000001,Uncategorized
+442,it just doesn't work...so frustrating,negative,-0.4,Uncategorized
+443,it's not work correctly... you must have update it,neutral,0.0,Uncategorized
+444,"the app gets a considerable improvements like language , QR scanner and unlimited transfers survice. but BOA Please do alot on its fastness and convenient when we login and making a transactions.",positive,0.1,"Account Access Issues, Transaction Performance"
+445,after i typed in my password it says successfully logged out ...and goes back to the first page,positive,0.3333333333333333,Account Access Issues
+446,good but they don't update enough don't add new things,positive,0.27878787878787875,Feature Requests
+447,it doesn't work period z slowest mobile banking ever i would rather use *815#,neutral,0.0,Transaction Performance
+448,"after activated the application it not allowed to sign , automatically it is turn off In my phone, why ?",neutral,0.0,Uncategorized
+449,this version is not working for me I cannot even buy card. I cannot send money,neutral,0.0,Uncategorized
+450,"It can't actively on initialization, it says incorrect OTP getting the exact OTP",positive,0.058333333333333334,Account Access Issues
+451,always problematic hardly works,negative,-0.2916666666666667,Uncategorized
+452,considering the fact the bank is huge this app really bad you could do better,positive,0.06666666666666675,Uncategorized
+453,"worst app and Bank ever u be ashamed, scammer",negative,-1.0,Uncategorized
+454,i have went to the bank so many times because i couldn't make any transaction i can only see my balance nothing else so what is the point of having mobile banking if i can't make any transaction with it please work in that,positive,0.25,Transaction Performance
+455,there is no speed,neutral,0.0,Uncategorized
+456,"For anyone who wants to download it, just don't!!!",positive,0.390625,Uncategorized
+457,wonderful,positive,1.0,Uncategorized
+458,all worck,neutral,0.0,Uncategorized
+459,"Edit: New bug, app not letting me type in my otp codes. Shameful Why does this app not allow me to use it while having developer options on? Did y'all consider that I might, perhaps, be an actual developer? Why am I expected to toggle the option on and off just to bank (restarting my phone when I do)? Why is the message labled as somthing that will ""smoothen"" the experience? This is like the most ""security consultant"" thing to implement in an app. Please invest in actual security, not this mess.",positive,0.06022727272727273,"Account Access Issues, User Interface & Experience, Feature Requests"
+460,Improved to be the best,positive,1.0,Uncategorized
+461,"Decent, but there problems sometimes it says error When i transfer money but infact it transferred because of this bug i transferred 2 times instead of 1 and also we can't transfer money to others telebirr acc we only can to our self BOE Dev fix this !!!",positive,0.08333333333333333,Transaction Performance
+462,BoA Greqt Ethiopian bank.,neutral,0.0,Uncategorized
+463,"The bug is still there,the app crashes every time i try to log in, especially in old phones like my Galaxy A32",positive,0.2,Uncategorized
+464,Almost better compared to cbe where it is not qualified for,positive,0.5,Uncategorized
+465,what awesome apps. it is very simple to use and more much important apps.,positive,0.475,Uncategorized
+466,Wonderfull app,neutral,0.0,Uncategorized
+467,i can't use this app why?,neutral,0.0,Uncategorized
+468,Worst mobile banking app I ever experienced I was blaming other apps but comparing with this they're too much better!!!! It clashes it takes much longer time to login while loading in short it's a complete of trash,positive,0.1392857142857143,"Account Access Issues, User Interface & Experience"
+469,bro the worst app made by human kind!! as a software engineer it make me so sad seeing enterprise as big as BOA make apps like this. it is a disgrace for our country!!,negative,-0.1125,Uncategorized
+470,AGA B Girja Miss language of admin Afaan oromo & other Itoophiyaa languages,negative,-0.125,Uncategorized
+471,"I downloaded the app for the first time while reading other customers reviews and as soon as i installed and opened the app it closes back automatically, what unserious bank, now i uninstalled the app immediately",neutral,0.041666666666666664,Uncategorized
+472,It has good features but sometimes it doesn't work...0,positive,0.7,Feature Requests
+473,Very poor proformance,negative,-0.52,Uncategorized
+474,It's not opening. Really frustrating,negative,-0.4,Uncategorized
+475,Verry Amazing App from all IB,positive,0.6000000000000001,Uncategorized
+476,Not working on this days,neutral,0.0,Uncategorized
+477,Thank you BoA,neutral,0.0,Uncategorized
+478,best banking app in the wworld,positive,1.0,Uncategorized
+479,Nice app and it's easy to use,positive,0.5166666666666666,Uncategorized
+480,"please add language in the apps setting(amharic afan oromo, tigniya,and others) sometimes bank to bank transfer is not available through time and even if if it is available not reachable…it is serious issue!",negative,-0.0722222222222222,"Transaction Performance, Feature Requests"
+481,This is help full i like ittttt,positive,0.35,Customer Support
+482,The is not functional at all?,neutral,0.0,Uncategorized
+483,Best bank,positive,1.0,Uncategorized
+484,Make it easy and convienient to use and perfect for all to high prefrence and choice.,positive,0.5311111111111111,Uncategorized
+485,I have been using this app for two years.It is amazing.,positive,0.6000000000000001,Uncategorized
+486,Sad experience,negative,-0.5,User Interface & Experience
+487,Always do update and that is annoying,negative,-0.8,Uncategorized
+488,"Best app, somehow waiting a few minutes",positive,0.4,Uncategorized
+489,I can't dijitalize my atm in the apollo app on my phone,neutral,0.0,Uncategorized
+490,Whenever I try to sign in app close please fixed it out,positive,0.1,Uncategorized
+491,Beter,neutral,0.0,Uncategorized
+492,በጣም የሚያስጠላ አፕ በጣም የወረደ ዜሮ ነው የምሰጠው ዘሮ It's not App it's very slow ehhhh. Why don't you upgrade the app???? It's always zero,negative,-0.39000000000000007,Transaction Performance
+493,Aadan Axmed Barkhadle,neutral,0.0,Uncategorized
+494,Horrible customer service and app crashes Horrible!!,negative,-1.0,Customer Support
+495,I love it,positive,0.5,Uncategorized
+496,It keeps asking me to turn off developer mode even when dev mode is off. Couldn't use it.,neutral,0.0,Uncategorized
+497,Like to much,positive,0.2,Uncategorized
+498,Perfect,positive,1.0,Uncategorized
+499,The best of best,positive,1.0,Uncategorized
+500,I was using this app for long time it amazing user friendly UI but the i can't found for get pin button in the app,positive,0.30833333333333335,User Interface & Experience
+501,Fast and suitable for the customers.,positive,0.375,Uncategorized
+502,Good app and helpful,positive,0.7,Uncategorized
+503,"I will give only one star, because it faced with multiple of problems. 1. The app is not as fast as the other banks App, for e.g like CBE 2. The App asks repeatedly to switch off developer options, even if it is switched off. 3. Bank of Abyssinia's services are interesting, but they ignored the issues on the App service. 4. Most customers gave a complain on the App, but no one accept their complain to fix the issue. 5. Lastly, I will not recommend the App unless the issue has been solved ASAP!!",positive,0.15357142857142855,"Customer Support, Feature Requests"
+504,By assessing this you can tell Abyssinia bank has no idea what mobile banking is ?,neutral,0.0,Uncategorized
+505,It doesn't work at all.,neutral,0.0,Uncategorized
+506,this app is not available,negative,-0.2,Uncategorized
+507,Wow what amazing,positive,0.35000000000000003,Uncategorized
+508,በጣም መሻሻል አለበት....... ለ ባንኩ ማይመጥን መተግበርያ ነው ::,neutral,0.0,Uncategorized
+509,Lemn embi yilal??,neutral,0.0,Uncategorized
+510,It's useless app downgraded.,negative,-0.5,Uncategorized
+511,Why is not letting me access my account. The whole point of this app is for me to gey access to my account without physically being at the bank. I would give it a zero but a one will suffice to get my point accross.,positive,0.1,Account Access Issues
+512,When are you going to get rid of this and have a real app that works? By far the worst mobile banking app.,negative,-0.2333333333333333,Uncategorized
+513,Not that much bad,negative,-0.6999999999999998,Uncategorized
+514,Fine,positive,0.4166666666666667,Uncategorized
+515,The dirtiest application ever seen...,neutral,0.0,Uncategorized
+516,Nic ap,neutral,0.0,Uncategorized
+517,The forest app ever,neutral,0.0,Uncategorized
+518,"I love BoA more than anyone but they are cursed when it comed to mobile banking. Even though this ine is hetter it still s*cks! It will ask me to turn off developer options other wise it won't work! I use CBE, Awash birr, tekebirr, Dashen bank and others but non of them asked me this, why only BoA? Please improve your mobile banking, be competitive!",positive,0.375,Feature Requests
+519,Bank of abissena,neutral,0.0,Uncategorized
+520,"Easy and sooo simple to use it, also its easy to stole someones money using the app",positive,0.2888888888888889,Uncategorized
+521,The worst banking app ever. Never works!,negative,-1.0,Uncategorized
+522,Poorly functioning app,negative,-0.4,Uncategorized
+523,Your system is the worst you should do better😡😡😡😡😡😡,negative,-1.0,Uncategorized
+524,It has been a while since you guys started giving the mobile app service but still couldn't get it to work. I'm sure you know that it doesn't work already but not sure if you're lazy or incompetent to fix it. You are losing business because of this. Complacency will have consequences.,negative,-0.0875,Customer Support
+525,"This is the best app; many features are awesome, but it should work without the need to turn off the developer options. I'm tired of having to constantly switch the developer options off and on. I've been expressing my struggles about this. I have precious settings enabled in the developer options, and to open the App Boa app, I have to turn them off. Please help us, Abyssinia Bank. I hope you can provide an update soon.",positive,0.37142857142857144,"Customer Support, Feature Requests"
+526,"I’m giving this app one star because there are no options below that. My experience has been incredibly frustrating due to the extremely long loading times, and the app even closes automatically at times. People choose mobile banking for its convenience, but this app is far too time-consuming, making it the worst I’ve used. I hope improvements are made to enhance the user experience.",negative,-0.29500000000000004,"User Interface & Experience, Feature Requests"
+527,Very unprofessional and mischievous bank in my opinion. I have had several occasions but recently I used Abyssinia Card to withdraw money and it was deducted from my account but despite reporting several times they said they are processing it but I learned yesterday that since it has been 3 months the bank has decided to include it in their income. How absurd. If you can avoid this bank.,negative,-0.06,Uncategorized
+528,It doesn't work on my 2 devices A05 and A34 😡,neutral,0.0,Uncategorized
+529,My attention is very important because it will be the most difficult time for me,positive,0.17333333333333334,Uncategorized
+530,"I have a worst experience while using this mobile application through out the year. Most of the time it fails to ""Login"" or automatically closed the app. And also it takes so much loading time (5 minutes +) trying to access the internal services. Sometimes also while transferring within and to other bank also fails. So, BOA please fix your app.",negative,-0.19062500000000002,"Account Access Issues, Transaction Performance, User Interface & Experience, Customer Support"
+531,I don't know why but your apps start out great then all of a sudden don't work🤷‍♀️,positive,0.4,Uncategorized
+532,This application is losing major factions on a daily basis. I can count how many times I have used this app; it is completely useless and disappointing if I am not going to use it in times of need then I don't see the point.,negative,-0.1075,Uncategorized
+533,exellent digital transaction of money,neutral,0.0,Transaction Performance
+534,The latest update has stopped android 9 phones not to open this App. Never work properly since i started using it.,positive,0.16666666666666666,Uncategorized
+535,Money,neutral,0.0,Uncategorized
+536,It needs more improvment,positive,0.5,Uncategorized
+537,ab,neutral,0.0,Uncategorized
+538,Ademtahir,neutral,0.0,Uncategorized
+539,Please this app on my android phone,neutral,0.0,Uncategorized
+540,GOAT 🐐 🐐,neutral,0.0,Uncategorized
+541,"Your app doesn't match your bank, the app is disaster, super slow. Please learn something from tele birr app.",neutral,0.016666666666666635,Transaction Performance
+542,Fast and reliable,positive,0.2,Uncategorized
+543,"The worst app update ever. Why would you include the ""developer option off"" thing here? Why do you care? It is my phone my money, right? That is the reason why I switched to other banks. So either turn it off or everyone will discontinue their business one by one.",negative,-0.27976190476190477,Feature Requests
+544,One of the poorest mobile banking system,neutral,0.0,Uncategorized
+545,Oene,neutral,0.0,Uncategorized
+546,i find it interesting specially in reciept downloading,positive,0.4285714285714286,Uncategorized
+547,it good,positive,0.7,Uncategorized
+548,"This app crashes everytime, please fix it",neutral,0.0,Uncategorized
+549,አንድ star ራሱ ይበዛበታል። i dont recomend to use this app also the bank,neutral,0.0,Uncategorized
+550,I need a support the app is not working,neutral,0.0,Customer Support
+551,Bast bank of ethiopia,neutral,0.0,Uncategorized
+552,very slow app. አቢሲኒያን ከሚያክል ባንክ የማይጠበቅ software app. ከቻላችሁ ሙሉ ለሙሉ እንደገና አሰሩት።በጣም ይመራያል ያሳፍራል።ለapp የወጣው ወጭ በሙስና የተበላ ነው የሚመስለው።,negative,-0.39000000000000007,Transaction Performance
+553,"thank you for your social services like, vertual banking, non touch ATM, Cadrless and withdrwal with out passbook...",neutral,0.03333333333333333,Customer Support
+554,The worst App i have never seen like this before,negative,-1.0,Uncategorized
+555,Wweeeer,neutral,0.0,Uncategorized
+556,Infinx,neutral,0.0,Uncategorized
+557,Great service,positive,0.8,Customer Support
+558,This app is not available on all android versions and some times it is not functional.,negative,-0.2,Uncategorized
+559,senayt Mesfin,neutral,0.0,Uncategorized
+560,Bad app vety bad.,negative,-0.6999999999999998,Uncategorized
+561,Abessnya Banke,neutral,0.0,Uncategorized
+562,"The most useless app, I never expected such an irrelevant app from BOA. big shame!",negative,-0.075,Uncategorized
+563,Professional on banking app,positive,0.1,Uncategorized
+564,Has some nice interface but always freezes or slow to load .App developers please fix this issue.,positive,0.14999999999999997,"Transaction Performance, User Interface & Experience"
+565,Please try another because this app doesn't feet the need of this generation,neutral,0.0,Uncategorized
+566,Fast transfer,positive,0.2,Transaction Performance
+567,"What's up I can't log in, what's wrong",negative,-0.5,Uncategorized
+568,Amrumehamed,neutral,0.0,Uncategorized
+569,"Nice to meet you my proud bank in Ethiopia.. I'm a member of this bank, i need to solve my problem of international receiving money for me from my online digital working service's over the world please? I'm working a lot of international money.But i can't get direct in Ethiopia because of don't knowing the legal ways of getting money in Ethiopia please can I get and direct deposit with BoA please 🙏🙏🙏?",positive,0.225,Customer Support
+570,"Terrible Bank Experience It’s unbelievable that with all the modern technology, this bank still struggles with even basic transactions. The app constantly crashes, services are limited, and every time I try to transfer money or load Telebirr, there’s a huge delay. I have to wait 5 days for failed transactions to be refunded! Even USSD is unreliable. They’ve put me in embarrassing situations countless times, and customer care never fixes anything. I’ve switched banks, and you should too!",negative,-0.1496031746031746,"Transaction Performance, User Interface & Experience, Customer Support"
+571,A painfully slow banking app service. Please don't make it your choice!,negative,-0.37500000000000006,"Transaction Performance, Customer Support"
+572,Best app to me,positive,1.0,Uncategorized
+573,Abdulkadir,neutral,0.0,Uncategorized
+574,If it is possible I would gove0 star,neutral,0.0,Uncategorized
+575,Nise mobile bankig,neutral,0.0,Uncategorized
+576,Overall good app but performance needs some improvement also sometimes when using instant other bank transfers it refuses causing to be repeated several times to transfer,positive,0.11499999999999999,Transaction Performance
+577,Just make it work please🤣 this is embarrassing for a bank of your size,neutral,0.0,Uncategorized
+578,Update to the simplest way it requires the developer option on and off why this is,neutral,0.0,Feature Requests
+579,"Stop telling me what to do with my phone, BOA. Why does your newly updated app keep asking me to disable the developer options? I’m not slowing down my phone just to use your God damn app. 🤮🤮🤮🤮",neutral,-0.009595959595959616,"Transaction Performance, Feature Requests"
+580,I'm living out of country how may I download and use mobile banking? It asks me the Ethiopia phone number and I can't receive text to confirm because I'm out side the country. So please lete know if I can use while I'm outside the country. Thanks,positive,0.1,Uncategorized
+581,Worest app,neutral,0.0,Uncategorized
+582,when u release update its always a problem,neutral,0.0,Uncategorized
+583,primary choice,positive,0.4,Uncategorized
+584,its use friendly,positive,0.375,Uncategorized
+585,"The apk need time to open the passward page immediately , and lagging.",neutral,0.0,Uncategorized
+586,"this app is not good it's, access are limited and u guys are working only on it's graphics we need it for banking activities not for game. make it more active and better its dormant. i don't like it cbe is better than.",positive,0.06815476190476191,Account Access Issues
+587,very smart App easy to use and friendly,positive,0.36230158730158735,Uncategorized
+588,Very exemplery App to other Bank Aps !,neutral,0.021875000000000006,Uncategorized
+589,It Is An Amazing app,positive,0.6000000000000001,Uncategorized
+590,"its fast and easy to communicate to the app and its available all area keep it up.i will make Happy for this application thank you dashen bank for your effort,commitment and dedication. i appricated your work.",positive,0.4583333333333333,Uncategorized
+591,What do you care about my phone's settings? Who are you to tell me what to turn off and on? It is my phone after all. This *develoler option* thing will cost you a lot of users who are willing to leave the bank once and for all. Turn this thing off. 6 you fear this is a security issue fix your side not mine.,positive,0.25,Feature Requests
+592,Exceptional Product.,positive,0.6666666666666666,Uncategorized
+593,very easy app,positive,0.5633333333333334,Uncategorized
+594,"The Dashen Super App is very impressive. It is fast, easy to use, and provides smooth access to all essential banking services. Money transfer, bill payment, balance check, and other features work efficiently without issues. The design is clean and user-friendly. Great step forward in digital banking — keep up the good work, Dashen Bank!..",positive,0.3893939393939394,"Account Access Issues, Transaction Performance, Customer Support, Feature Requests"
+595,bill payment options are limited in this app please add ethio telecom bill electric bill etc.. instead of adding nonsense in banking app,negative,-0.07142857142857142,"Transaction Performance, Feature Requests"
+596,"it's a really slow app, I'm not sure what the issue is. Even other bank transfers are not working",negative,-0.225,Transaction Performance
+597,always updating bad stability,negative,-0.6999999999999998,Uncategorized
+598,"it say's disable developer option, i disabled it but its not working still",negative,-0.2,Feature Requests
+599,with the super app evry thing i need is just a tap away,positive,0.3333333333333333,Uncategorized
+600,eyita tips,neutral,0.0,Uncategorized
+601,clear and presize,positive,0.10000000000000002,Uncategorized
+602,smooth and easy!!!,positive,0.6231770833333334,Uncategorized
+603,I have had an amazing experience with this app;ot os convenient and easy to use,positive,0.5166666666666667,User Interface & Experience
+604,"All in One Super App with smooth navigation, transaction and lifestyle services",positive,0.3666666666666667,"Transaction Performance, User Interface & Experience, Customer Support"
+605,Very nice App.,positive,0.78,Uncategorized
+606,system failure transfer to others account,negative,-0.3166666666666667,Transaction Performance
+607,"Only the UI/UX is good, but it doesn't function properly. It's a shame that a leading tech bank has such an app. Amole is far better.",positive,0.21666666666666665,User Interface & Experience
+608,"excellent app. to use perfectlly to pay,transfer,tele airtime and so on.",positive,1.0,Transaction Performance
+609,wow dashen bank super app,positive,0.21666666666666667,Uncategorized
+610,"This so-called “Super App” is a complete disappointment. It’s confusing, slow, and full of glitches honestly, it feels like it was designed to test people’s patience, not to help them bank. Calling it “super” is a joke; it’s one of the most useless apps I’ve ever used.",positive,0.05166666666666666,"Transaction Performance, Customer Support"
+611,Best Mobile Banking App in Ethiopia .,positive,1.0,Uncategorized
+612,very nice app I have ever seen,positive,0.78,Uncategorized
+613,NASTY BANK . EVEN THE SUPPER APP IS NOT WORKING WELL. WHEN I AM CALLING THEM THEY ARE NOT RESPONSE . PLEASE DON'T USE THIS APP BECAUSE YOU WILL LOSS YOU TIME ;ENERGY AND EVERYTHING . HOPELESS Bank .,negative,-1.0,Customer Support
+614,it's good but is not fast,positive,0.3,Uncategorized
+615,your financial system must improved,neutral,0.0,Uncategorized
+616,your service is too good,positive,0.7,Customer Support
+617,good experience,positive,0.7,User Interface & Experience
+618,"Amazing app, 👏",positive,0.6000000000000001,Uncategorized
+619,wooow,neutral,0.0,Uncategorized
+620,"easy to use, friendly",positive,0.4041666666666667,Uncategorized
+621,"12yr more LC, UCP & ICC & loan",positive,0.5,Uncategorized
+622,"not attractive and friendly app. Check Awash, CBE apps",neutral,-0.012500000000000011,Uncategorized
+623,amzing,neutral,0.0,Uncategorized
+624,"The Dashen Super App is very impressive. It is fast, easy to use, and provides smooth access to all essential banking services. Money transfer, bill payment, balance check, and other features work efficiently without issues. The design is clean and user-friendly. Great step forward in digital banking — keep up the good work, Dashen Bank!",positive,0.3893939393939394,"Account Access Issues, Transaction Performance, Customer Support, Feature Requests"
+625,betam kerfafa naw,neutral,0.0,Uncategorized
+626,worst app ever,negative,-1.0,Uncategorized
+627,"Dashen, always two step ahead.",neutral,0.0,Uncategorized
+628,"Please try to fix the barrier between other banks specially with ""Commercial bank of Ethiopia""",positive,0.07738095238095238,Uncategorized
+629,i am using,neutral,0.0,Uncategorized
+630,It is a wonderful App developed by a local talent. It deserves an appreciation. It will continue to evolve with new exciting features.,positive,0.30727272727272725,Feature Requests
+631,wonderful app,positive,1.0,Uncategorized
+632,"i love the app it features are perfect, but it asks to update too many times to activate your need to visit a nearest branch and that takes time. other than that the app is great I like it",positive,0.5349999999999999,Feature Requests
+633,go ahead,neutral,0.0,Uncategorized
+634,its supper,neutral,0.0,Uncategorized
+635,it's so boring,negative,-1.0,Uncategorized
+636,Dashen Bank Super App is the latest version of online banking system that is the gift from Dashen bank for us Thanks to Dashen,positive,0.3444444444444444,Uncategorized
+637,"i rarely leave reviews, but this app truely deserves one.it's efficient ,secure , reliable and makes fanancial tasks effortless.definitely 5 stars for this exceptional app",positive,0.4291666666666666,Uncategorized
+638,it has improved very much lately its working more and getting better but yet it is not fully fixed some time at night it doesn't work..i think the problem is it was launched too early.,positive,0.18,Uncategorized
+639,wow dashen bank,positive,0.1,Uncategorized
+640,"I just updated my app to the latest version and I couldn't even see my balance, send money or do anything. It says service is unavailable and it will be fixed soon.",positive,0.3,Customer Support
+641,it's too slow,negative,-0.30000000000000004,Transaction Performance
+642,"Before the recent update, this app was great. Now, the home page is cluttered with promotions and banners, which really hurts the experience. I think the app stopped being banking app and started only to promote b/c 95% of the app is only ads, also full of bugs",positive,0.225,User Interface & Experience
+643,"This might be the worst banking app I've ever used I dont know why kind of bug it is but suddenly the apps stops working it says ""Temporarily unavailable"" for a simple feature like viewing account balance and in person visit was no help it took them longer than 2 hours to fix it and even after that 2 weeks later the same problem just because of this I'm going to stop using the bank altogether which is a shame because it's a decent bank",neutral,-0.03333333333333334,"Customer Support, Feature Requests"
+644,The worst app ever. Extremely unreliable. Such a shame for a big bank.,negative,-0.28125,Uncategorized
+645,app is too slow not opening fast,negative,-0.05000000000000002,Transaction Performance
+646,"it's seems to have some improvements, I don't know what's going on with this app sometimes get collapseed. This is not expected from Dashen bank, which is amongst from famous and greatest banks.",positive,0.5166666666666667,Uncategorized
+647,very nise good,positive,0.44999999999999996,Uncategorized
+648,very interesting,positive,0.65,Uncategorized
+649,what your emplyees tell as about the app when they came to our store and what actually the app is different,neutral,0.0,Uncategorized
+650,Excellent promotion,positive,1.0,Uncategorized
+651,viry good,positive,0.7,Uncategorized
+652,"Dashen Bank Super App is incredibly convenient! Easy to use, fast, and reliable – a great app to manage everything in one place.",positive,0.5533333333333333,Uncategorized
+653,it is the worst app ever istg 🤮🤮🤮,negative,-1.0,Uncategorized
+654,"Dashen Super App is a game-changer with its sleek, user-friendly interface. Lightning-fast responses and seamless navigation make every task a breeze. Love the organized layout and clear features that save time daily. Fantastic work—highly recommended for effortless banking!",positive,0.2555555555555556,"User Interface & Experience, Customer Support, Feature Requests"
+655,"The design is clean and modern, and everything works smoothly without bugs. I love how reliable the app is it makes banking so convenient.",positive,0.3666666666666667,Uncategorized
+656,"A true banking super app! The Dashen Super App combines great design, security, and an impressive range of features. Highly recommended for anyone looking for a complete digital banking experience.",positive,0.395,"User Interface & Experience, Feature Requests"
+657,"​I appreciate that this app allowed me to access multiple services in one centralized place. Thank you, Dashen Bank!",neutral,0.0,"Account Access Issues, Customer Support"
+658,"This app makes my day-to-day payments so easy. Everything works perfectly, and it saves me a lot of time.",positive,0.7166666666666667,Transaction Performance
+659,It’s impressive how consistently the app is improving. I’ve been using it for months and they have improved a lot in terms of not only beauty but also performance wise.,positive,0.4875,Uncategorized
+660,This app has replaced several others for me. It has everything I need in one place.,neutral,0.0,Uncategorized
+661,"The app has evolved impressively over time. The latest release adds dark and light modes that enhance usability and design. It’s intuitive, modern, and clearly built with the user in mind — setting a new benchmark for digital banking.",positive,0.2732954545454545,Feature Requests
+662,"Dashen superapp just keeps improving. The new theme options are beautiful, and the overall experience is faster and smoother than ever",positive,0.3287878787878788,"User Interface & Experience, Feature Requests"
+663,I have been using this app for months and its easy to use and is user friendly thanks Dashen bank.,positive,0.3361111111111111,Uncategorized
+664,"Finally, banking made simple! Everything I need is in one super app. A true game changer for managing my finances on the go.",positive,0.056666666666666664,Uncategorized
+665,"I’ve been using the the App, and it’s been working really well for my daily transactions. Good work 👌",positive,0.3,Transaction Performance
+666,"I appreciate how secure this app feels. Every transaction comes with confirmation, and I always get alerts immediately.",positive,0.4,Transaction Performance
+667,I love the new dark theme it gives the app modern feel n make it more comfortable to use,positive,0.2643939393939394,Uncategorized
+668,"This is amazing app, as it name ,truly supper.",positive,0.6000000000000001,Uncategorized
+669,This is one of the most user friendly and impressive apps I have encountered in the banking sector,positive,0.625,Uncategorized
+670,"Amazing UI and UX, the dark mode looks absolutely awesome!",positive,0.4833333333333334,User Interface & Experience
+671,The updated design looks amazing. I really appreciate being able to switch between dark and light mode it’s a small change that makes a big difference!,positive,0.18571428571428575,Uncategorized
+672,Astonishing interface with ease of access and complete performance,positive,0.3,"Account Access Issues, User Interface & Experience"
+673,"I rarely leave reviews, but this app truly deserves one. It’s efficient, secure, and makes financial tasks effortless. Definitely a 5-star experience",positive,0.175,User Interface & Experience
+674,stunning UI with reliable service!,positive,0.625,"User Interface & Experience, Customer Support"
+675,"Super Up is the ultimate digital banking app, living up to its name with speed, efficiency, and innovation. Designed for a seamless experience, it offers lightning-fast transactions, top-tier security, and effortless financial management. With Super Up, banking has never been this smooth, smart, and super!",positive,0.18976190476190474,"Transaction Performance, User Interface & Experience"
+676,"The UI is impressive, but adding an ATM withdrawal feature for cardless cash access would enhance functionality. This may require updates to the ATM system as well. Please consider this, dev team.",positive,1.0,"Account Access Issues, User Interface & Experience, Feature Requests"
+677,convinent,neutral,0.0,Uncategorized
+678,it is Excellent April jest continue more abeaten.....,positive,0.75,Uncategorized
+679,abdrug bentahuuuu,neutral,0.0,Uncategorized
+680,"Dashen SuperApp is the worst app for me because it consistently fails during transfers. When I try to send money, the transaction freezes for extended periods—sometimes a full day, and often two or three days or more. Crucially, the funds are neither delivered to the recipient nor immediately refunded to my account, which is incredibly frustrating and makes me feel like I've lost my money. The app urgently needs a technical update to ensure transactions process smoothly and reliably.",negative,-0.08124999999999998,Transaction Performance
+681,Best application,positive,1.0,Uncategorized
+682,easy,positive,0.43333333333333335,Uncategorized
+683,lmo,neutral,0.0,Uncategorized
+684,meseret birara,neutral,0.0,Uncategorized
+685,it doesn't let me open my account,neutral,0.0,Uncategorized
+686,it is the best,positive,1.0,Uncategorized
+687,nice and best,positive,0.8,Uncategorized
+688,Finish the app development fully before you give the final result. It's is very inconvenient and not that reliable at the moment.,negative,-0.39,Uncategorized
+689,hayelu Beranu Bashre,neutral,0.0,Uncategorized
+690,👎👎👎👎👎👎👎👎 connection not fast,negative,-0.1,Uncategorized
+691,"@Shewangizaw L. As a heavy user of the app , the issue you raised around resetting pass pin concerned me and gave it a try and found it to be safe. Basically the app will do two things: verifies one using an otp and then requires an in-person visit to bank's physical branch for final verification after resetting the password. Therefore, safe to use! I wish ""i""nformational tip was added around the reset button. Could not attach screenshot.",positive,0.185,"Account Access Issues, Feature Requests"
+692,for dashen bankk it is best app so why your bank onlyu one one app for mobile banking that means superr app,positive,1.0,Uncategorized
+693,tadesa melka tulluu,neutral,0.0,Uncategorized
+694,I can't open virtual account.I have been trying it for about 3 days still no resolve.,neutral,0.0,Uncategorized
+695,App is passive when compare to Amole it takes 3-5 seconds to open and i cannot refresh transactions what i did.,neutral,0.0,Transaction Performance
+696,withdraw,neutral,0.0,Uncategorized
+697,It takes gazillion years to open 😶,neutral,0.0,Uncategorized
+698,this app is outstanding,positive,0.5,Uncategorized
+699,totally bad,negative,-0.6999999999999998,Uncategorized
+700,I really appreciate but we can't use it if don't have balance or data access,positive,0.2,Account Access Issues
+701,it fast service,positive,0.2,Customer Support
+702,"Good improvements after the Sep 25, 2025 update.",positive,0.7,Uncategorized
+703,I have one issue though what if the mobile phone with the sim is stolen and have no pattern or pin. The app allows to reset the pin directly without 2FA like finger print just by sending sms. which is a big gap. It should be addressed I didn't expect but it does and no trust at all.,neutral,0.05,Uncategorized
+704,gooe,neutral,0.0,Uncategorized
+705,Dashen super app is the best all ethiopian banks keep it,positive,0.6666666666666666,Uncategorized
+706,cool app,positive,0.35,Uncategorized
+707,App That makes cashless society in our century and Easy to use.,positive,0.43333333333333335,Uncategorized
+708,tadass,neutral,0.0,Uncategorized
+709,It is an amazing app and all in one,positive,0.6000000000000001,Uncategorized
+710,i dont like it,neutral,0.0,Uncategorized
+711,Dashen is the Future,neutral,0.0,Uncategorized
+712,the best version in 🇪🇹,positive,1.0,Uncategorized
+713,"its amazing app, visually stunning",positive,0.55,Uncategorized
+714,"Updates every time 🥲, when it's updated, it doesn't work at all. 😭",neutral,0.0,Uncategorized
+715,the best app from other dashen is unique its fast app ever i had in my life,positive,0.3625,Uncategorized
+716,I love the new user interface,positive,0.3181818181818182,User Interface & Experience
+717,"Appreciated, Always one step ahead!",positive,0.25,Uncategorized
+718,The app stops working whenever there is an update unless you update the app. But it is better if it kept working on and updating should be optional.,positive,0.5,Uncategorized
+719,"This is the first time i have experienced this much cool app out of all the other mobile banking platforms, im genuinely happy to see this kind of app here, tnx",positive,0.44583333333333336,User Interface & Experience
+720,it can't do without data or wifi,neutral,0.0,Uncategorized
+721,"The best UI banking app from all those I used, other Ethiopian banks I used have a really old UI. This is very neat and easy to use. Also so reliable.",positive,0.32166666666666666,User Interface & Experience
+722,So nice !,positive,0.75,Uncategorized
+723,What's the problem with this app's that asking for updates on a daily basis?,neutral,0.0,Uncategorized
+724,"Wow, I really loved the new UI/UX! Great job, Dashen Bank! You guys are the best mobile banking in Ethiopia.",positive,0.594090909090909,User Interface & Experience
+725,excellent UI improvement 💯💯,positive,1.0,User Interface & Experience
+726,one of the best app in Ethiopia .,positive,1.0,Uncategorized
+727,it is good but some times says duplicate transaction why? and text,positive,0.7,Transaction Performance
+728,The worst app. It needs updating everyday. Ouch 🤕,negative,-0.6,Uncategorized
+729,safe and secure,positive,0.45,Uncategorized
+730,"is not working right now with snmsung galaxy f15, please help me",positive,0.2857142857142857,Customer Support
+731,Your staffs are really hardworking but the app is not like your employees,positive,0.2,Uncategorized
+732,total,neutral,0.0,Uncategorized
+733,dashen super app is the best,positive,0.6666666666666666,Uncategorized
+734,zero sezzs55sየየወደሠራዊቱ ደየእያቻቻሉ ሐየየመንደ ደም የሰው የየመን የሰው ።ደም ሐማሚጀየየ,neutral,0.0,Uncategorized
+735,not werke,neutral,0.0,Uncategorized
+736,what happened to dashen bank? this is by far the worst banking app. extremely slow when it works and is out of service all the time,negative,-0.4000000000000001,"Transaction Performance, Customer Support"
+737,simple and easy to use,positive,0.21666666666666667,Uncategorized
+738,meke,neutral,0.0,Uncategorized
+739,"not a great app compared to the others ,It freezes randomly ,Takes a lot to load ,and a lot of errors while sending money ,I stopped using it",negative,-0.45,Uncategorized
+740,bad specialy at weekends,negative,-0.6999999999999998,Uncategorized
+741,"I am very disappointed with the Dashin Bank Super App. The app does not allow me to withdraw 50 birr or can't transfer money and even I can't use it to buy airtime. This makes me feel like my 50 birr is no longer my money, but the bank’s money, since I cannot access or use it freely. According to the National Bank of Ethiopia (NBE), the rule is that 100 birr is not withdrawable, but it can be used to buy airtime or transferred to friends. Dashin Bank’s restriction goes beyond this rule and unfa",negative,-0.0805555555555556,"Account Access Issues, Transaction Performance"
+742,It is good apps but it needs strong network,positive,0.5666666666666667,Uncategorized
+743,The app doesn't allow to switch between accounts. Why is it not possible to use two accounts on the same app even if the accounts have been opened at different branch?,neutral,0.0,Uncategorized
+744,lacag inaad amaahisan somalida maxaad ku diiden,neutral,0.0,Uncategorized
+745,Dashin mobile banking is become worest app like others Ethiopian bank apps. Amole was the best app ever I used. It was so flexible & reliable to use. and the best app user can login with new device without go to bank physically.,positive,0.5340909090909091,Account Access Issues
+746,"The app has potential, but the QR payment feature is disappointing. The scanner doesn’t work, and even though there’s an option to select a QR code from the gallery, it doesn’t function either. This makes paying with QR codes almost impossible. Fixing this would really improve the app.",negative,-0.26666666666666666,"Transaction Performance, Feature Requests"
+747,"very slow and failed transaction multiple times, previous app was much better!!",negative,-0.05508333333333337,Transaction Performance
+748,"""super Idiot app"" 1.it forced me to off many of my phone settings like developers option. 2.Never works fastly. 3.It needs multiple click. 4. Doesn't notify if received money & many many more *** The worst mobile app ever expanded***",neutral,0.043333333333333314,Feature Requests
+749,dashin bank,neutral,0.0,Uncategorized
+750,muhaammad bakko,neutral,0.0,Uncategorized
+751,goog,neutral,0.0,Uncategorized
+752,un functional app,neutral,0.0,Uncategorized
+753,trnes far,positive,0.1,Uncategorized
+754,shimalis,neutral,0.0,Uncategorized
+755,excellent mobile banking digital,positive,0.5,Uncategorized
+756,"Excellent, and it's truly a super app!",positive,0.7083333333333333,Uncategorized
+757,can't access as will if it's super and can't even access the service when you need it's a big failure,neutral,0.005555555555555536,"Account Access Issues, Customer Support"
+758,seche,neutral,0.0,Uncategorized
+759,very fast bank,positive,0.26,Uncategorized
+760,good and well,positive,0.7,Uncategorized
+761,what a bank it is,neutral,0.0,Uncategorized
+762,Dashen Super App contains extended selections for customers and can be easily accessible and also friendly to use.,positive,0.3611111111111111,Uncategorized
+763,nic,neutral,0.0,Uncategorized
+764,easy to use and the best one,positive,0.7166666666666667,Uncategorized
+765,it is totally work of failure. I personally prefer dashen amole instead of this super dull app.,negative,-0.055000000000000014,Uncategorized
+766,The worst banking app in Ethiopia. It forces you to change your PIN every three months.,negative,-1.0,Uncategorized
+767,best but USSD is necessary,positive,0.5,Uncategorized
+768,"one step forward, Ethiopian bank and e commerce industry",neutral,0.0,Uncategorized
+769,still it's essay for user,neutral,0.0,Uncategorized
+770,"Great app, unfortunately I struggle to use it from outside Ethiopia. It tells me ""VPN enabled please disable VPN to continue using the app"". And that's happening without any VPN enabled. I think I will need to switch back to CBE because I need access to my bank account globally.",positive,0.06000000000000001,Account Access Issues
+771,"It was easy enough before. but now it won't even open , why? pls help if possible. The email address you provided under the App support also can't be found by Gmail. pls respond.",positive,0.10833333333333334,Customer Support
+772,"There are plenty of features missed e. g electricity bill, water bill payments",neutral,0.0,"Transaction Performance, Feature Requests"
+773,great 👍 app,positive,0.8,Uncategorized
+774,"its a very low quality and slow application, very unreliable in times of need",neutral,-0.03333333333333335,Transaction Performance
+775,very poor and time taking to use,negative,-0.52,Uncategorized
+776,it is the best app ever i have seen Dashen bank always one step a head!!!!,positive,1.0,Uncategorized
+777,the new version is so good I like it,positive,0.41818181818181815,Uncategorized
+778,good job my dashen super app,positive,0.5166666666666666,Uncategorized
+779,Some connection issues,neutral,0.0,Uncategorized
+780,verry slow app 🤢,negative,-0.30000000000000004,Transaction Performance
+781,best bauget app,positive,1.0,Uncategorized
+782,its good but he said uptede me 😠🤕,positive,0.7,Uncategorized
+783,network issue,neutral,0.0,Uncategorized
+784,fast and easy to use great App.,positive,0.4777777777777778,Uncategorized
+785,Best Performing and Fast Financial app,positive,0.39999999999999997,Uncategorized
+786,well done keep it up,neutral,0.0,Uncategorized
+787,good but it takes forever to load,positive,0.7,Uncategorized
+788,"It's very good, but there are some things that need to be improved by (speed & receipt view) to be competitive with the companies in the country, i.e.cbe&telebirr.",positive,0.9099999999999999,Uncategorized
+789,my favorite 💗💗💗,positive,0.5,Uncategorized
+790,"This is boring Mobile banking app, it is not work properly .so slow!",negative,-0.4583333333333333,Transaction Performance
+791,"improve the app, please. it is not working. It says response timeout",neutral,0.0,Customer Support
+792,modern perfect app interface with the best banking tools 👏,positive,0.7333333333333334,User Interface & Experience
+793,when i tried to open the app it re-downloading something big 3GB 4GB size and after 3 hours late it will open. it's my experience Very worst app it isn't lite app not works in every situation of networks.,negative,-0.26,User Interface & Experience
+794,"poor, glitch stack",negative,-0.4,Uncategorized
+795,slowest banking app ever used,neutral,0.0,Transaction Performance
+796,Dashen Bank super app is the best app,positive,0.6666666666666666,Uncategorized
+797,would most likely rate it even less but it does have it's perks. But for the most part the whole app is filled with bugs and it stops being responsive almost everytime. Besides some new features and the new UI design I most definitely prefer the old amole Version. either fix this mess or bring back Amole,positive,0.16392773892773896,"User Interface & Experience, Feature Requests"
+798,sometimes is not working to be honest,positive,0.6,Uncategorized
+799,Why isn't this app working?,neutral,0.0,Uncategorized
+800,network error,neutral,0.0,Uncategorized
+801,fast,positive,0.2,Uncategorized
+802,100 good,positive,0.7,Uncategorized
+803,It stop working most of the time.,positive,0.5,Uncategorized
+804,i were smothely using the app for the last 5 month but somehow its not working to now so what shall i do it becames like i can open the app even i can't open it if u have solution's pls help me kindly tnx,positive,0.15,Customer Support
+805,"Simple for usage and well designed, attractive in its visual design, ""Always One Step Ahead""",positive,0.26666666666666666,Uncategorized
+806,amazing product,positive,0.6000000000000001,Uncategorized
+807,"this app is not good and compatible with other Ethiopian bank apps, it is not fast, is stacks sometimes ,even some days it stops working at all.",negative,-0.19166666666666665,Uncategorized
+808,like it,neutral,0.0,Uncategorized
+809,Great always one step ahead and most reliable bank,positive,0.65,Uncategorized
+810,u need to start cash out service,neutral,0.0,Customer Support
+811,all in one super app,positive,0.3333333333333333,Uncategorized
+812,Fayla,neutral,0.0,Uncategorized
+813,"The app even in its' first phase is too far one step booster that enables a user to perform a seamless Banking service with multi step security features at his/her comfort zone. It really assured that Dashen Bank is living the Logo ""ALWAYS ONE STEP AHEAD""",positive,0.16249999999999998,"Customer Support, Feature Requests"
+814,ይሄ App ደስ ይላል ሁላችሁም አውርዱት እላለሁ🤭,neutral,0.0,Uncategorized
+815,"Best App .. Good job, Dashen Bank",positive,0.85,Uncategorized
+816,Excellent App ...,positive,1.0,Uncategorized
+817,the worst app I have ever seen,negative,-1.0,Uncategorized
+818,very good compared to Amole!,positive,1.0,Uncategorized
+819,"while it's very secure, it is very slower than other mobile banking apps. it is very lazy app!",neutral,0.04718749999999999,Transaction Performance
+820,Great application,positive,0.8,Uncategorized
+821,I am entreated app.,neutral,0.0,Uncategorized
+822,Cannot list the number of bugs with this pile of human waste. The absolute worst banking app I have ever used. 50 steps backwards. DO NOT RECOMMEND.,negative,-0.25,Uncategorized
+823,best app with best bank,positive,1.0,Uncategorized
+824,alway slow loading,negative,-0.30000000000000004,Transaction Performance
+825,"worst app ever and by any chance your account is deactivated, you are doomed",negative,-1.0,Uncategorized
+826,Ethiopian amazing`s Dashen Bank🤝👌,neutral,0.0,Uncategorized
+827,"It's an unpredictable app, I can't make transactions, and now I can't even get the OTP! So it's going from bad to worse! Thank goodness the Amole Dashen app still exists.",negative,-0.4694444444444444,"Account Access Issues, Transaction Performance"
+828,nice app but limit up to max 600000,positive,0.6,Uncategorized
+829,Super,positive,0.3333333333333333,Uncategorized
+830,"I would be happy if I got a withdraw system in the application. Otherwise, everything is fine for me",positive,0.6083333333333334,Uncategorized
+831,nice app but transaction limet not enough,positive,0.3,Transaction Performance
+832,"It's an amazing application to use bank transactions in Ethiopia and it's so friendly btw, but need to ck that account link when we lost our mobile it's ver difficult to link up for the next one pls ck",positive,0.11875000000000002,Transaction Performance
+833,Dashen Bank My Choice🇪🇹✌️💫,neutral,0.0,Uncategorized
+834,very simple and user friendly app Thank you Dashen Bank,positive,0.1875,Uncategorized
+835,very good .,positive,0.9099999999999999,Uncategorized
+836,I like this mobile banking app very much. Overall user interface and navigation is awesome. But it lacks instant response when someone deposit or withdraw money.,positive,0.3333333333333333,"User Interface & Experience, Customer Support"
+837,gadaa,neutral,0.0,Uncategorized
+838,Massive upgrade from the Amole app.,neutral,0.0,Uncategorized
+839,very good for this app,positive,0.9099999999999999,Uncategorized
+840,top,positive,0.5,Uncategorized
+841,this app better than Amole . but the biometric on new update doesn't work,positive,0.3181818181818182,Uncategorized
+842,wow to it saff and this app,positive,0.1,Uncategorized
+843,it too slow,negative,-0.30000000000000004,Transaction Performance
+844,useless app ever loading take long,negative,-0.275,Uncategorized
+845,"Game changer app! Dashen Bank Super App is fast, secure, and easy to use. The three-click payment makes sending money super quick, and the QR code payment is perfect for cashless shopping. I also love the biometric login and easy airtime and bill payments. Everything I need is in one place. Dashen Bank has really raised the bar for digital banking in Ethiopia. Highly recommended!",positive,0.2974358974358975,"Account Access Issues, Transaction Performance"
+846,very useful App,positive,0.39,Uncategorized
+847,"Simple, robust features? Yes, please! But the endless loading screen killed the fun—I couldn’t use it for days. Fix the glitch, and I’ll yeet a higher rating!",neutral,-0.0031250000000000028,Feature Requests
+848,Wawww,neutral,0.0,Uncategorized
+849,its best,positive,1.0,Uncategorized
+850,it is not as good as to the other mobile bank app.,positive,0.2875,Uncategorized
+851,"The best of best is now arrived **Empowering Your Financial Freedom** ""Experience seamless banking at your fingertips with Dashen Bank. Empowering your financial freedom, anytime, anywhere!"" **Innovation Meets Convenience** ""Dashen Bank Mobile Banking: Where innovation meets convenience. **Secure and Reliable** ""Bank with confidence",positive,0.4166666666666667,User Interface & Experience
+852,Nothing is changed in the updated version. You have been collecting comments but where is the feed back you improved in this version. superapp is mot functioning today.,neutral,0.0,Uncategorized
+853,The best app ever in finance sector,positive,1.0,Uncategorized
+854,Its good app than other compitators but it confuse when we transfer it needs OTP and PIN most user inter their pin instead of OTP we know the litrecy level of our society so if it is device based i dont know the needs of OTP so please try to fix,positive,0.35833333333333334,"Account Access Issues, Transaction Performance"
+855,dashen bank or dashen super app?,positive,0.3333333333333333,Uncategorized
+856,wowwwe app,neutral,0.0,Uncategorized
+857,"Transferring to other bank accounts is a hastle and inconvenient .Get used to seeing "" please try again """,negative,-0.3625,Transaction Performance
+858,always lagging,neutral,0.0,Uncategorized
+859,Amazing Application...,positive,0.6000000000000001,Uncategorized
+860,"Dashen bank app is very good, but sometimes it is not working well",positive,0.9099999999999999,Uncategorized
+861,its my choice,neutral,0.0,Uncategorized
+862,wow apo,positive,0.1,Uncategorized
+863,awesome app keep going,positive,1.0,Uncategorized
+864,"It grows ethiopian digital banking step ahead.All fetures in one,simple fast and convince.",positive,0.1,Uncategorized
+865,Game changer,negative,-0.4,Uncategorized
+866,Totally amazing,positive,0.6000000000000001,Uncategorized
+867,what a helpful app!!!!,neutral,0.0,Uncategorized
