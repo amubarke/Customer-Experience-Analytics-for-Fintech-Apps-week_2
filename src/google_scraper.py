@@ -21,7 +21,7 @@ class GooglePlayReviewScraper:
                 lang='en',
                 country='et',
                 sort=Sort.NEWEST,
-                count=200
+                count=400
             )
             if not result:
                 break
