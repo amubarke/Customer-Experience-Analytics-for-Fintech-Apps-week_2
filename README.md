@@ -24,6 +24,7 @@ Evaluate early insights for each bank (CBE, BOA, Dashen)
 
 📂 2. Project Folder Structure
 
+
 Customer-Experience-Analytics-for-Fintech-Apps-week_2/
 │
 ├── data/
