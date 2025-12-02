@@ -1,4 +1,4 @@
-# Customer-Experience-Analytics-for-Fintech-Apps-week_2## Week 2 Methodology – Customer Experience Analytics for Fintech Apps
+ Week 2 Methodology – Customer Experience Analytics for Fintech Apps
 
 ### Objectives
 
