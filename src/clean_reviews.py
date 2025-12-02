@@ -1,34 +1,58 @@
-import pandas as pd
 import re
+import pandas as pd
 
 class ReviewCleaner:
-    def __init__(self, df: pd.DataFrame):
-        self.df = df
+    """
+    Handles text cleaning, duplicate removal, date normalization,
+    and source tagging for scraped Google Play reviews.
+    """
 
-    def drop_duplicates(self):
-        """Remove duplicate rows."""
-        before = len(self.df)
-        self.df = self.df.drop_duplicates()
-        after = len(self.df)
-        print(f"Removed {before - after} duplicate rows.")
-        return self
+    def __init__(self):
+        pass
 
-    def handle_missing(self):
-        """Drop rows where the review text or rating is missing."""
-        before = len(self.df)
-        self.df = self.df.dropna(subset=["review", "rating"])
-        after = len(self.df)
-        print(f"Removed {before - after} rows with missing data.")
-        return self
+    @staticmethod
+    def clean_text(text):
+        if not isinstance(text, str):
+            return ""
+        text = re.sub(r"\s+", " ", text)
+        text = re.sub(r"[^A-Za-z0-9 .,!?]", "", text)
+        return text.strip().lower()
 
-    def normalize_dates(self):
-        """Normalize date column to YYYY-MM-DD."""
-        if "date" in self.df.columns:
-            self.df["date"] = pd.to_datetime(self.df["date"], errors="coerce").dt.date
-        else:
-            print("⚠️ Warning: No 'date' column found.")
-        return self
+    @staticmethod
+    def normalize_date(date_value):
+        try:
+            date = pd.to_datetime(date_value, errors="coerce")
+            if pd.isna(date):
+                return None
+            return date.strftime("%Y-%m-%d")
+        except:
+            return None
 
-    def get_clean_data(self):
-        """Return cleaned DataFrame."""
-        return self.df
+    def clean_dataframe(self, df):
+        if "content" not in df.columns:
+            raise KeyError("DataFrame must contain a 'content' column")
+
+        # Drop rows with missing content
+        df = df.dropna(subset=["content"])
+
+        # Clean text
+        df["cleaned_text"] = df["content"].apply(self.clean_text)
+
+        # Normalize date if 'at' column exists
+        if "at" in df.columns:
+            df["review_date"] = df["at"].apply(self.normalize_date)
+
+        # Remove duplicates
+        df = df.drop_duplicates(subset=["cleaned_text"])
+
+        # Add source column
+        df["source"] = "Google Play"
+
+        return df
+
+    def clean_and_save(self, input_path, output_path):
+        df = pd.read_csv(input_path)
+        df = self.clean_dataframe(df)
+        df.to_csv(output_path, index=False)
+        print(f"Cleaned data saved → {output_path}")
+        return df
