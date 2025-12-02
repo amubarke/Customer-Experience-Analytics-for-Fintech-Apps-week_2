@@ -1,61 +1,136 @@
- Week 2 Methodology – Customer Experience Analytics for Fintech Apps
+Week 2 — Customer Experience Analytics for Fintech Apps
 
-### Objectives
+Data Cleaning • Sentiment Analysis • Thematic Analysis • Visual Insights
 
-- Implement Google Play review scraping for target banks: CBE, Abyssinia, and Dashen.
-- Develop a review cleaning and preprocessing pipeline to normalize text and remove duplicates.
-- Prepare the data for sentiment analysis in the upcoming weeks.
-- Ensure a modular code structure for scraper, cleaner, and sentiment analyzer.
+This week focused on transforming raw Google Play Store reviews into a clean, structured, and analyzable dataset. The pipeline for preprocessing, sentiment scoring, and theme extraction was completed, along with key exploratory visualizations. The outputs from Week 2 form the core analytical foundation for subsequent modeling and insights.
 
-### Scraping Reviews
+🏁 1. Objectives for Week 2
 
-- **Tool:** `google-play-scraper` Python package.
-- **Target Apps:** Mobile banking apps for CBE, Bank of Abyssinia, and Dashen Bank.
-- **Parameters:** 
-  - Language: English (`en`)
-  - Country: Ethiopia (`et`)
-  - Reviews per bank: 400 (configurable)
-- **Process:** 
-  1. Implemented `GooglePlayReviewScraper` class for modular scraping.
-  2. Scraped reviews are stored as CSV in `data/raw/google_play_reviews.csv`.
-  3. Each review is tagged with the corresponding bank name.
+Build a robust review preprocessing pipeline
 
-### Review Cleaning
+Standardize and clean reviews: duplicates, missing data, tokenization, lemmatization
 
-- **Tool:** Custom Python class `ReviewCleaner`.
-- **Steps:** 
-  1. Remove empty review rows.
-  2. Normalize text (lowercase, remove extra spaces, remove unwanted characters except `. , ! ?`).
-  3. Remove duplicate reviews based on cleaned text.
-- **Output:** Cleaned CSV saved at `data/processed/cleaned.csv`.
+Execute sentiment analysis (TextBlob baseline)
 
-### Pipeline Organization
+Extract keywords using spaCy + TF-IDF
 
-- Project structured into modules: 
-  - `src/google_scraper.py` – Scraper code.
-  - `src/clean_reviews.py` – Cleaning/preprocessing code.
-  - `src/sentiment.py` – Sentiment analysis module (to be implemented).
-  - `config/config.py` – Stores App IDs, bank names, scraping parameters, and file paths.
+Group extracted keywords into 3–5 themes per bank
 
-- `ReviewPipeline` class combines scraping, cleaning, and sentiment steps for full automation.
+Produce key exploratory visualizations
 
-### Current Results
+Save structured results to CSV for database ingestion
 
-| Step | Status | Output |
-|------|--------|--------|
-| Scraping Google Play Reviews | ✅ Completed | `data/raw/google_play_reviews.csv` |
-| Review Cleaning | ✅ Completed | `data/processed/cleaned.csv` |
-| Sentiment Analysis | ⚪ Pending | `data/processed/sentiment.csv` |
+Evaluate early insights for each bank (CBE, BOA, Dashen)
 
-### Challenges
+📂 2. Project Folder Structure
 
-- Import and module path issues due to Jupyter Notebook folder structure.
-- Initial confusion with relative paths when accessing CSV files.
-- Ensuring modular code to allow independent testing of scraper, cleaner, and sentiment modules.
+Customer-Experience-Analytics-for-Fintech-Apps-week_2/
+│
+├── data/
+│   ├── raw/                 # Original scraped reviews
+│   ├── processed/           # Cleaned CSVs + sentiment results
+│
+├── notebooks/
+│   ├── week2_sentiment.ipynb
+│   ├── week2_theme_analysis.ipynb
+│
+├── src/
+│   ├── clean_reviews.py     # Cleaning + preprocessing pipeline
+│   ├── sentiment.py         # SentimentAnalyzer class
+│   ├── themes.py            # Keyword extraction + theme clustering
+│   ├── utils.py
+│
+├── reports/
+│   ├── Week2_Report.pdf     # Full PDF report (10 pages)
+│
+└── README.md
 
-### Next Steps
+🧹 3. Data Cleaning Pipeline (clean_reviews.py)
+The cleaning script performs:
 
-- Implement sentiment analysis using TextBlob or advanced models.
-- Generate visualizations: sentiment distribution, top keywords, review counts over time.
-- Perform exploratory data analysis (EDA) on the cleaned dataset.
-- Refine pipeline automation: scraping → cleaning → sentiment → visualization.
+Duplicate removal
+
+Missing value handling
+
+Text-level normalization
+
+Tokenization
+
+Lemmatization
+
+Stop-word removal
+
+Bank tagging
+
+Source field addition (google_play)
+
+Output:
+data/processed/cleaned.csv
+Columns include:
+
+review_id
+bank
+review_text
+cleaned_text
+rating
+review_date
+source
+
+
+😊 4. Sentiment Analysis (sentiment.py)
+
+Using TextBlob, each review receives:
+
+sentiment_label (positive, neutral, negative)
+
+sentiment_score (float)
+
+Output:
+data/processed/cleaned_with_sentiment.csv
+
+Sample summary:
+
+| Bank              | Total | Positive | Negative | Neutral | Mean Polarity |
+| ----------------- | ----- | -------- | -------- | ------- | ------------- |
+| Bank of Abyssinia | 286   | 121      | 63       | 102     | 0.1027        |
+| CBE               | 296   | 146      | 27       | 123     | 0.2296        |
+| Dashen Bank       | 286   | 171      | 44       | 71      | 0.2303        |
+
+🔍 5. Keyword & Theme Extraction
+Using spaCy + TF-IDF, top keywords were extracted and grouped into themes:
+
+| Theme                       | Count |
+| --------------------------- | ----- |
+| Transaction Performance     | 107   |
+| Feature Requests            | 65    |
+| Customer Support            | 51    |
+| User Interface & Experience | 49    |
+| Account Access Issues       | 47    |
+
+📊 6. Visualizations (Week 2)
+
+✔ Rating distribution per bank
+✔ Sentiment distribution bar charts
+✔ Keyword frequency stacked bar chart
+✔ Per-bank stacked keyword visualization
+✔ Word cloud for top keywords
+✔ Theme frequency bar chart
+✔ Sentiment by rating bucket
+✔ Top 20 TF-IDF keywords visual
+✔ Cleanliness summary statistics
+✔ Sentiment polarity histogram
+
+🧠 7.  Insights (Week 2)
+🔸 Positive Highlights
+
+Dashen and CBE show strong polarity averages
+
+High number of positive reviews mention good UI and fast transfers
+
+🔸 Major Pain Points
+
+Account access (login/OTP failures)
+
+Transaction failures (EFT & CBEBirr issues)
+
+Poor customer support responsiveness
