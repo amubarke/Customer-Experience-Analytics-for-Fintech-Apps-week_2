@@ -24,22 +24,27 @@ Evaluate early insights for each bank (CBE, BOA, Dashen)
 
 📂 2. Project Folder Structure
 
+
 Customer-Experience-Analytics-for-Fintech-Apps-week_2/
-│
+
+
 ├── data/
 │   ├── raw/                 # Original scraped reviews
 │   ├── processed/           # Cleaned CSVs + sentiment results
-│
+
+
 ├── notebooks/
 │   ├── week2_sentiment.ipynb
 │   ├── week2_theme_analysis.ipynb
-│
+
+
 ├── src/
 │   ├── clean_reviews.py     # Cleaning + preprocessing pipeline
 │   ├── sentiment.py         # SentimentAnalyzer class
 │   ├── themes.py            # Keyword extraction + theme clustering
 │   ├── utils.py
-│
+
+
 ├── reports/
 │   ├── Week2_Report.pdf     # Full PDF report (10 pages)
 │
